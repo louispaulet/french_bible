@@ -1,0 +1,1 @@
+calibre_current_page_bookmark^0# *:eq(0)  > *:eq(1)  > *:eq(16) |0.32727272727272727

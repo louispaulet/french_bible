@@ -1,0 +1,1330 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+    <meta name="dtb:uid" content="LaSainteBibleLouisSegond1910_0x4F2CD34F"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle>
+    <text>La Sainte Bible (Louis Segond 1910)</text>
+</docTitle>
+<navMap>
+<navPoint id="toc1" playOrder="1"><navLabel><text>Genèse</text></navLabel><content src="01_1.xhtml" />
+    <navPoint id="toc2" playOrder="2"><navLabel><text>Genèse 1</text></navLabel><content src="01_1.xhtml" /></navPoint>
+    <navPoint id="toc3" playOrder="3"><navLabel><text>Genèse 2</text></navLabel><content src="01_2.xhtml" /></navPoint>
+    <navPoint id="toc4" playOrder="4"><navLabel><text>Genèse 3</text></navLabel><content src="01_3.xhtml" /></navPoint>
+    <navPoint id="toc5" playOrder="5"><navLabel><text>Genèse 4</text></navLabel><content src="01_4.xhtml" /></navPoint>
+    <navPoint id="toc6" playOrder="6"><navLabel><text>Genèse 5</text></navLabel><content src="01_5.xhtml" /></navPoint>
+    <navPoint id="toc7" playOrder="7"><navLabel><text>Genèse 6</text></navLabel><content src="01_6.xhtml" /></navPoint>
+    <navPoint id="toc8" playOrder="8"><navLabel><text>Genèse 7</text></navLabel><content src="01_7.xhtml" /></navPoint>
+    <navPoint id="toc9" playOrder="9"><navLabel><text>Genèse 8</text></navLabel><content src="01_8.xhtml" /></navPoint>
+    <navPoint id="toc10" playOrder="10"><navLabel><text>Genèse 9</text></navLabel><content src="01_9.xhtml" /></navPoint>
+    <navPoint id="toc11" playOrder="11"><navLabel><text>Genèse 10</text></navLabel><content src="01_10.xhtml" /></navPoint>
+    <navPoint id="toc12" playOrder="12"><navLabel><text>Genèse 11</text></navLabel><content src="01_11.xhtml" /></navPoint>
+    <navPoint id="toc13" playOrder="13"><navLabel><text>Genèse 12</text></navLabel><content src="01_12.xhtml" /></navPoint>
+    <navPoint id="toc14" playOrder="14"><navLabel><text>Genèse 13</text></navLabel><content src="01_13.xhtml" /></navPoint>
+    <navPoint id="toc15" playOrder="15"><navLabel><text>Genèse 14</text></navLabel><content src="01_14.xhtml" /></navPoint>
+    <navPoint id="toc16" playOrder="16"><navLabel><text>Genèse 15</text></navLabel><content src="01_15.xhtml" /></navPoint>
+    <navPoint id="toc17" playOrder="17"><navLabel><text>Genèse 16</text></navLabel><content src="01_16.xhtml" /></navPoint>
+    <navPoint id="toc18" playOrder="18"><navLabel><text>Genèse 17</text></navLabel><content src="01_17.xhtml" /></navPoint>
+    <navPoint id="toc19" playOrder="19"><navLabel><text>Genèse 18</text></navLabel><content src="01_18.xhtml" /></navPoint>
+    <navPoint id="toc20" playOrder="20"><navLabel><text>Genèse 19</text></navLabel><content src="01_19.xhtml" /></navPoint>
+    <navPoint id="toc21" playOrder="21"><navLabel><text>Genèse 20</text></navLabel><content src="01_20.xhtml" /></navPoint>
+    <navPoint id="toc22" playOrder="22"><navLabel><text>Genèse 21</text></navLabel><content src="01_21.xhtml" /></navPoint>
+    <navPoint id="toc23" playOrder="23"><navLabel><text>Genèse 22</text></navLabel><content src="01_22.xhtml" /></navPoint>
+    <navPoint id="toc24" playOrder="24"><navLabel><text>Genèse 23</text></navLabel><content src="01_23.xhtml" /></navPoint>
+    <navPoint id="toc25" playOrder="25"><navLabel><text>Genèse 24</text></navLabel><content src="01_24.xhtml" /></navPoint>
+    <navPoint id="toc26" playOrder="26"><navLabel><text>Genèse 25</text></navLabel><content src="01_25.xhtml" /></navPoint>
+    <navPoint id="toc27" playOrder="27"><navLabel><text>Genèse 26</text></navLabel><content src="01_26.xhtml" /></navPoint>
+    <navPoint id="toc28" playOrder="28"><navLabel><text>Genèse 27</text></navLabel><content src="01_27.xhtml" /></navPoint>
+    <navPoint id="toc29" playOrder="29"><navLabel><text>Genèse 28</text></navLabel><content src="01_28.xhtml" /></navPoint>
+    <navPoint id="toc30" playOrder="30"><navLabel><text>Genèse 29</text></navLabel><content src="01_29.xhtml" /></navPoint>
+    <navPoint id="toc31" playOrder="31"><navLabel><text>Genèse 30</text></navLabel><content src="01_30.xhtml" /></navPoint>
+    <navPoint id="toc32" playOrder="32"><navLabel><text>Genèse 31</text></navLabel><content src="01_31.xhtml" /></navPoint>
+    <navPoint id="toc33" playOrder="33"><navLabel><text>Genèse 32</text></navLabel><content src="01_32.xhtml" /></navPoint>
+    <navPoint id="toc34" playOrder="34"><navLabel><text>Genèse 33</text></navLabel><content src="01_33.xhtml" /></navPoint>
+    <navPoint id="toc35" playOrder="35"><navLabel><text>Genèse 34</text></navLabel><content src="01_34.xhtml" /></navPoint>
+    <navPoint id="toc36" playOrder="36"><navLabel><text>Genèse 35</text></navLabel><content src="01_35.xhtml" /></navPoint>
+    <navPoint id="toc37" playOrder="37"><navLabel><text>Genèse 36</text></navLabel><content src="01_36.xhtml" /></navPoint>
+    <navPoint id="toc38" playOrder="38"><navLabel><text>Genèse 37</text></navLabel><content src="01_37.xhtml" /></navPoint>
+    <navPoint id="toc39" playOrder="39"><navLabel><text>Genèse 38</text></navLabel><content src="01_38.xhtml" /></navPoint>
+    <navPoint id="toc40" playOrder="40"><navLabel><text>Genèse 39</text></navLabel><content src="01_39.xhtml" /></navPoint>
+    <navPoint id="toc41" playOrder="41"><navLabel><text>Genèse 40</text></navLabel><content src="01_40.xhtml" /></navPoint>
+    <navPoint id="toc42" playOrder="42"><navLabel><text>Genèse 41</text></navLabel><content src="01_41.xhtml" /></navPoint>
+    <navPoint id="toc43" playOrder="43"><navLabel><text>Genèse 42</text></navLabel><content src="01_42.xhtml" /></navPoint>
+    <navPoint id="toc44" playOrder="44"><navLabel><text>Genèse 43</text></navLabel><content src="01_43.xhtml" /></navPoint>
+    <navPoint id="toc45" playOrder="45"><navLabel><text>Genèse 44</text></navLabel><content src="01_44.xhtml" /></navPoint>
+    <navPoint id="toc46" playOrder="46"><navLabel><text>Genèse 45</text></navLabel><content src="01_45.xhtml" /></navPoint>
+    <navPoint id="toc47" playOrder="47"><navLabel><text>Genèse 46</text></navLabel><content src="01_46.xhtml" /></navPoint>
+    <navPoint id="toc48" playOrder="48"><navLabel><text>Genèse 47</text></navLabel><content src="01_47.xhtml" /></navPoint>
+    <navPoint id="toc49" playOrder="49"><navLabel><text>Genèse 48</text></navLabel><content src="01_48.xhtml" /></navPoint>
+    <navPoint id="toc50" playOrder="50"><navLabel><text>Genèse 49</text></navLabel><content src="01_49.xhtml" /></navPoint>
+    <navPoint id="toc51" playOrder="51"><navLabel><text>Genèse 50</text></navLabel><content src="01_50.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc52" playOrder="52"><navLabel><text>Exode</text></navLabel><content src="02_1.xhtml" />
+    <navPoint id="toc53" playOrder="53"><navLabel><text>Exode 1</text></navLabel><content src="02_1.xhtml" /></navPoint>
+    <navPoint id="toc54" playOrder="54"><navLabel><text>Exode 2</text></navLabel><content src="02_2.xhtml" /></navPoint>
+    <navPoint id="toc55" playOrder="55"><navLabel><text>Exode 3</text></navLabel><content src="02_3.xhtml" /></navPoint>
+    <navPoint id="toc56" playOrder="56"><navLabel><text>Exode 4</text></navLabel><content src="02_4.xhtml" /></navPoint>
+    <navPoint id="toc57" playOrder="57"><navLabel><text>Exode 5</text></navLabel><content src="02_5.xhtml" /></navPoint>
+    <navPoint id="toc58" playOrder="58"><navLabel><text>Exode 6</text></navLabel><content src="02_6.xhtml" /></navPoint>
+    <navPoint id="toc59" playOrder="59"><navLabel><text>Exode 7</text></navLabel><content src="02_7.xhtml" /></navPoint>
+    <navPoint id="toc60" playOrder="60"><navLabel><text>Exode 8</text></navLabel><content src="02_8.xhtml" /></navPoint>
+    <navPoint id="toc61" playOrder="61"><navLabel><text>Exode 9</text></navLabel><content src="02_9.xhtml" /></navPoint>
+    <navPoint id="toc62" playOrder="62"><navLabel><text>Exode 10</text></navLabel><content src="02_10.xhtml" /></navPoint>
+    <navPoint id="toc63" playOrder="63"><navLabel><text>Exode 11</text></navLabel><content src="02_11.xhtml" /></navPoint>
+    <navPoint id="toc64" playOrder="64"><navLabel><text>Exode 12</text></navLabel><content src="02_12.xhtml" /></navPoint>
+    <navPoint id="toc65" playOrder="65"><navLabel><text>Exode 13</text></navLabel><content src="02_13.xhtml" /></navPoint>
+    <navPoint id="toc66" playOrder="66"><navLabel><text>Exode 14</text></navLabel><content src="02_14.xhtml" /></navPoint>
+    <navPoint id="toc67" playOrder="67"><navLabel><text>Exode 15</text></navLabel><content src="02_15.xhtml" /></navPoint>
+    <navPoint id="toc68" playOrder="68"><navLabel><text>Exode 16</text></navLabel><content src="02_16.xhtml" /></navPoint>
+    <navPoint id="toc69" playOrder="69"><navLabel><text>Exode 17</text></navLabel><content src="02_17.xhtml" /></navPoint>
+    <navPoint id="toc70" playOrder="70"><navLabel><text>Exode 18</text></navLabel><content src="02_18.xhtml" /></navPoint>
+    <navPoint id="toc71" playOrder="71"><navLabel><text>Exode 19</text></navLabel><content src="02_19.xhtml" /></navPoint>
+    <navPoint id="toc72" playOrder="72"><navLabel><text>Exode 20</text></navLabel><content src="02_20.xhtml" /></navPoint>
+    <navPoint id="toc73" playOrder="73"><navLabel><text>Exode 21</text></navLabel><content src="02_21.xhtml" /></navPoint>
+    <navPoint id="toc74" playOrder="74"><navLabel><text>Exode 22</text></navLabel><content src="02_22.xhtml" /></navPoint>
+    <navPoint id="toc75" playOrder="75"><navLabel><text>Exode 23</text></navLabel><content src="02_23.xhtml" /></navPoint>
+    <navPoint id="toc76" playOrder="76"><navLabel><text>Exode 24</text></navLabel><content src="02_24.xhtml" /></navPoint>
+    <navPoint id="toc77" playOrder="77"><navLabel><text>Exode 25</text></navLabel><content src="02_25.xhtml" /></navPoint>
+    <navPoint id="toc78" playOrder="78"><navLabel><text>Exode 26</text></navLabel><content src="02_26.xhtml" /></navPoint>
+    <navPoint id="toc79" playOrder="79"><navLabel><text>Exode 27</text></navLabel><content src="02_27.xhtml" /></navPoint>
+    <navPoint id="toc80" playOrder="80"><navLabel><text>Exode 28</text></navLabel><content src="02_28.xhtml" /></navPoint>
+    <navPoint id="toc81" playOrder="81"><navLabel><text>Exode 29</text></navLabel><content src="02_29.xhtml" /></navPoint>
+    <navPoint id="toc82" playOrder="82"><navLabel><text>Exode 30</text></navLabel><content src="02_30.xhtml" /></navPoint>
+    <navPoint id="toc83" playOrder="83"><navLabel><text>Exode 31</text></navLabel><content src="02_31.xhtml" /></navPoint>
+    <navPoint id="toc84" playOrder="84"><navLabel><text>Exode 32</text></navLabel><content src="02_32.xhtml" /></navPoint>
+    <navPoint id="toc85" playOrder="85"><navLabel><text>Exode 33</text></navLabel><content src="02_33.xhtml" /></navPoint>
+    <navPoint id="toc86" playOrder="86"><navLabel><text>Exode 34</text></navLabel><content src="02_34.xhtml" /></navPoint>
+    <navPoint id="toc87" playOrder="87"><navLabel><text>Exode 35</text></navLabel><content src="02_35.xhtml" /></navPoint>
+    <navPoint id="toc88" playOrder="88"><navLabel><text>Exode 36</text></navLabel><content src="02_36.xhtml" /></navPoint>
+    <navPoint id="toc89" playOrder="89"><navLabel><text>Exode 37</text></navLabel><content src="02_37.xhtml" /></navPoint>
+    <navPoint id="toc90" playOrder="90"><navLabel><text>Exode 38</text></navLabel><content src="02_38.xhtml" /></navPoint>
+    <navPoint id="toc91" playOrder="91"><navLabel><text>Exode 39</text></navLabel><content src="02_39.xhtml" /></navPoint>
+    <navPoint id="toc92" playOrder="92"><navLabel><text>Exode 40</text></navLabel><content src="02_40.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc93" playOrder="93"><navLabel><text>Lévitique</text></navLabel><content src="03_1.xhtml" />
+    <navPoint id="toc94" playOrder="94"><navLabel><text>Lévitique 1</text></navLabel><content src="03_1.xhtml" /></navPoint>
+    <navPoint id="toc95" playOrder="95"><navLabel><text>Lévitique 2</text></navLabel><content src="03_2.xhtml" /></navPoint>
+    <navPoint id="toc96" playOrder="96"><navLabel><text>Lévitique 3</text></navLabel><content src="03_3.xhtml" /></navPoint>
+    <navPoint id="toc97" playOrder="97"><navLabel><text>Lévitique 4</text></navLabel><content src="03_4.xhtml" /></navPoint>
+    <navPoint id="toc98" playOrder="98"><navLabel><text>Lévitique 5</text></navLabel><content src="03_5.xhtml" /></navPoint>
+    <navPoint id="toc99" playOrder="99"><navLabel><text>Lévitique 6</text></navLabel><content src="03_6.xhtml" /></navPoint>
+    <navPoint id="toc100" playOrder="100"><navLabel><text>Lévitique 7</text></navLabel><content src="03_7.xhtml" /></navPoint>
+    <navPoint id="toc101" playOrder="101"><navLabel><text>Lévitique 8</text></navLabel><content src="03_8.xhtml" /></navPoint>
+    <navPoint id="toc102" playOrder="102"><navLabel><text>Lévitique 9</text></navLabel><content src="03_9.xhtml" /></navPoint>
+    <navPoint id="toc103" playOrder="103"><navLabel><text>Lévitique 10</text></navLabel><content src="03_10.xhtml" /></navPoint>
+    <navPoint id="toc104" playOrder="104"><navLabel><text>Lévitique 11</text></navLabel><content src="03_11.xhtml" /></navPoint>
+    <navPoint id="toc105" playOrder="105"><navLabel><text>Lévitique 12</text></navLabel><content src="03_12.xhtml" /></navPoint>
+    <navPoint id="toc106" playOrder="106"><navLabel><text>Lévitique 13</text></navLabel><content src="03_13.xhtml" /></navPoint>
+    <navPoint id="toc107" playOrder="107"><navLabel><text>Lévitique 14</text></navLabel><content src="03_14.xhtml" /></navPoint>
+    <navPoint id="toc108" playOrder="108"><navLabel><text>Lévitique 15</text></navLabel><content src="03_15.xhtml" /></navPoint>
+    <navPoint id="toc109" playOrder="109"><navLabel><text>Lévitique 16</text></navLabel><content src="03_16.xhtml" /></navPoint>
+    <navPoint id="toc110" playOrder="110"><navLabel><text>Lévitique 17</text></navLabel><content src="03_17.xhtml" /></navPoint>
+    <navPoint id="toc111" playOrder="111"><navLabel><text>Lévitique 18</text></navLabel><content src="03_18.xhtml" /></navPoint>
+    <navPoint id="toc112" playOrder="112"><navLabel><text>Lévitique 19</text></navLabel><content src="03_19.xhtml" /></navPoint>
+    <navPoint id="toc113" playOrder="113"><navLabel><text>Lévitique 20</text></navLabel><content src="03_20.xhtml" /></navPoint>
+    <navPoint id="toc114" playOrder="114"><navLabel><text>Lévitique 21</text></navLabel><content src="03_21.xhtml" /></navPoint>
+    <navPoint id="toc115" playOrder="115"><navLabel><text>Lévitique 22</text></navLabel><content src="03_22.xhtml" /></navPoint>
+    <navPoint id="toc116" playOrder="116"><navLabel><text>Lévitique 23</text></navLabel><content src="03_23.xhtml" /></navPoint>
+    <navPoint id="toc117" playOrder="117"><navLabel><text>Lévitique 24</text></navLabel><content src="03_24.xhtml" /></navPoint>
+    <navPoint id="toc118" playOrder="118"><navLabel><text>Lévitique 25</text></navLabel><content src="03_25.xhtml" /></navPoint>
+    <navPoint id="toc119" playOrder="119"><navLabel><text>Lévitique 26</text></navLabel><content src="03_26.xhtml" /></navPoint>
+    <navPoint id="toc120" playOrder="120"><navLabel><text>Lévitique 27</text></navLabel><content src="03_27.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc121" playOrder="121"><navLabel><text>Nombres</text></navLabel><content src="04_1.xhtml" />
+    <navPoint id="toc122" playOrder="122"><navLabel><text>Nombres 1</text></navLabel><content src="04_1.xhtml" /></navPoint>
+    <navPoint id="toc123" playOrder="123"><navLabel><text>Nombres 2</text></navLabel><content src="04_2.xhtml" /></navPoint>
+    <navPoint id="toc124" playOrder="124"><navLabel><text>Nombres 3</text></navLabel><content src="04_3.xhtml" /></navPoint>
+    <navPoint id="toc125" playOrder="125"><navLabel><text>Nombres 4</text></navLabel><content src="04_4.xhtml" /></navPoint>
+    <navPoint id="toc126" playOrder="126"><navLabel><text>Nombres 5</text></navLabel><content src="04_5.xhtml" /></navPoint>
+    <navPoint id="toc127" playOrder="127"><navLabel><text>Nombres 6</text></navLabel><content src="04_6.xhtml" /></navPoint>
+    <navPoint id="toc128" playOrder="128"><navLabel><text>Nombres 7</text></navLabel><content src="04_7.xhtml" /></navPoint>
+    <navPoint id="toc129" playOrder="129"><navLabel><text>Nombres 8</text></navLabel><content src="04_8.xhtml" /></navPoint>
+    <navPoint id="toc130" playOrder="130"><navLabel><text>Nombres 9</text></navLabel><content src="04_9.xhtml" /></navPoint>
+    <navPoint id="toc131" playOrder="131"><navLabel><text>Nombres 10</text></navLabel><content src="04_10.xhtml" /></navPoint>
+    <navPoint id="toc132" playOrder="132"><navLabel><text>Nombres 11</text></navLabel><content src="04_11.xhtml" /></navPoint>
+    <navPoint id="toc133" playOrder="133"><navLabel><text>Nombres 12</text></navLabel><content src="04_12.xhtml" /></navPoint>
+    <navPoint id="toc134" playOrder="134"><navLabel><text>Nombres 13</text></navLabel><content src="04_13.xhtml" /></navPoint>
+    <navPoint id="toc135" playOrder="135"><navLabel><text>Nombres 14</text></navLabel><content src="04_14.xhtml" /></navPoint>
+    <navPoint id="toc136" playOrder="136"><navLabel><text>Nombres 15</text></navLabel><content src="04_15.xhtml" /></navPoint>
+    <navPoint id="toc137" playOrder="137"><navLabel><text>Nombres 16</text></navLabel><content src="04_16.xhtml" /></navPoint>
+    <navPoint id="toc138" playOrder="138"><navLabel><text>Nombres 17</text></navLabel><content src="04_17.xhtml" /></navPoint>
+    <navPoint id="toc139" playOrder="139"><navLabel><text>Nombres 18</text></navLabel><content src="04_18.xhtml" /></navPoint>
+    <navPoint id="toc140" playOrder="140"><navLabel><text>Nombres 19</text></navLabel><content src="04_19.xhtml" /></navPoint>
+    <navPoint id="toc141" playOrder="141"><navLabel><text>Nombres 20</text></navLabel><content src="04_20.xhtml" /></navPoint>
+    <navPoint id="toc142" playOrder="142"><navLabel><text>Nombres 21</text></navLabel><content src="04_21.xhtml" /></navPoint>
+    <navPoint id="toc143" playOrder="143"><navLabel><text>Nombres 22</text></navLabel><content src="04_22.xhtml" /></navPoint>
+    <navPoint id="toc144" playOrder="144"><navLabel><text>Nombres 23</text></navLabel><content src="04_23.xhtml" /></navPoint>
+    <navPoint id="toc145" playOrder="145"><navLabel><text>Nombres 24</text></navLabel><content src="04_24.xhtml" /></navPoint>
+    <navPoint id="toc146" playOrder="146"><navLabel><text>Nombres 25</text></navLabel><content src="04_25.xhtml" /></navPoint>
+    <navPoint id="toc147" playOrder="147"><navLabel><text>Nombres 26</text></navLabel><content src="04_26.xhtml" /></navPoint>
+    <navPoint id="toc148" playOrder="148"><navLabel><text>Nombres 27</text></navLabel><content src="04_27.xhtml" /></navPoint>
+    <navPoint id="toc149" playOrder="149"><navLabel><text>Nombres 28</text></navLabel><content src="04_28.xhtml" /></navPoint>
+    <navPoint id="toc150" playOrder="150"><navLabel><text>Nombres 29</text></navLabel><content src="04_29.xhtml" /></navPoint>
+    <navPoint id="toc151" playOrder="151"><navLabel><text>Nombres 30</text></navLabel><content src="04_30.xhtml" /></navPoint>
+    <navPoint id="toc152" playOrder="152"><navLabel><text>Nombres 31</text></navLabel><content src="04_31.xhtml" /></navPoint>
+    <navPoint id="toc153" playOrder="153"><navLabel><text>Nombres 32</text></navLabel><content src="04_32.xhtml" /></navPoint>
+    <navPoint id="toc154" playOrder="154"><navLabel><text>Nombres 33</text></navLabel><content src="04_33.xhtml" /></navPoint>
+    <navPoint id="toc155" playOrder="155"><navLabel><text>Nombres 34</text></navLabel><content src="04_34.xhtml" /></navPoint>
+    <navPoint id="toc156" playOrder="156"><navLabel><text>Nombres 35</text></navLabel><content src="04_35.xhtml" /></navPoint>
+    <navPoint id="toc157" playOrder="157"><navLabel><text>Nombres 36</text></navLabel><content src="04_36.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc158" playOrder="158"><navLabel><text>Deutéronome</text></navLabel><content src="05_1.xhtml" />
+    <navPoint id="toc159" playOrder="159"><navLabel><text>Deutéronome 1</text></navLabel><content src="05_1.xhtml" /></navPoint>
+    <navPoint id="toc160" playOrder="160"><navLabel><text>Deutéronome 2</text></navLabel><content src="05_2.xhtml" /></navPoint>
+    <navPoint id="toc161" playOrder="161"><navLabel><text>Deutéronome 3</text></navLabel><content src="05_3.xhtml" /></navPoint>
+    <navPoint id="toc162" playOrder="162"><navLabel><text>Deutéronome 4</text></navLabel><content src="05_4.xhtml" /></navPoint>
+    <navPoint id="toc163" playOrder="163"><navLabel><text>Deutéronome 5</text></navLabel><content src="05_5.xhtml" /></navPoint>
+    <navPoint id="toc164" playOrder="164"><navLabel><text>Deutéronome 6</text></navLabel><content src="05_6.xhtml" /></navPoint>
+    <navPoint id="toc165" playOrder="165"><navLabel><text>Deutéronome 7</text></navLabel><content src="05_7.xhtml" /></navPoint>
+    <navPoint id="toc166" playOrder="166"><navLabel><text>Deutéronome 8</text></navLabel><content src="05_8.xhtml" /></navPoint>
+    <navPoint id="toc167" playOrder="167"><navLabel><text>Deutéronome 9</text></navLabel><content src="05_9.xhtml" /></navPoint>
+    <navPoint id="toc168" playOrder="168"><navLabel><text>Deutéronome 10</text></navLabel><content src="05_10.xhtml" /></navPoint>
+    <navPoint id="toc169" playOrder="169"><navLabel><text>Deutéronome 11</text></navLabel><content src="05_11.xhtml" /></navPoint>
+    <navPoint id="toc170" playOrder="170"><navLabel><text>Deutéronome 12</text></navLabel><content src="05_12.xhtml" /></navPoint>
+    <navPoint id="toc171" playOrder="171"><navLabel><text>Deutéronome 13</text></navLabel><content src="05_13.xhtml" /></navPoint>
+    <navPoint id="toc172" playOrder="172"><navLabel><text>Deutéronome 14</text></navLabel><content src="05_14.xhtml" /></navPoint>
+    <navPoint id="toc173" playOrder="173"><navLabel><text>Deutéronome 15</text></navLabel><content src="05_15.xhtml" /></navPoint>
+    <navPoint id="toc174" playOrder="174"><navLabel><text>Deutéronome 16</text></navLabel><content src="05_16.xhtml" /></navPoint>
+    <navPoint id="toc175" playOrder="175"><navLabel><text>Deutéronome 17</text></navLabel><content src="05_17.xhtml" /></navPoint>
+    <navPoint id="toc176" playOrder="176"><navLabel><text>Deutéronome 18</text></navLabel><content src="05_18.xhtml" /></navPoint>
+    <navPoint id="toc177" playOrder="177"><navLabel><text>Deutéronome 19</text></navLabel><content src="05_19.xhtml" /></navPoint>
+    <navPoint id="toc178" playOrder="178"><navLabel><text>Deutéronome 20</text></navLabel><content src="05_20.xhtml" /></navPoint>
+    <navPoint id="toc179" playOrder="179"><navLabel><text>Deutéronome 21</text></navLabel><content src="05_21.xhtml" /></navPoint>
+    <navPoint id="toc180" playOrder="180"><navLabel><text>Deutéronome 22</text></navLabel><content src="05_22.xhtml" /></navPoint>
+    <navPoint id="toc181" playOrder="181"><navLabel><text>Deutéronome 23</text></navLabel><content src="05_23.xhtml" /></navPoint>
+    <navPoint id="toc182" playOrder="182"><navLabel><text>Deutéronome 24</text></navLabel><content src="05_24.xhtml" /></navPoint>
+    <navPoint id="toc183" playOrder="183"><navLabel><text>Deutéronome 25</text></navLabel><content src="05_25.xhtml" /></navPoint>
+    <navPoint id="toc184" playOrder="184"><navLabel><text>Deutéronome 26</text></navLabel><content src="05_26.xhtml" /></navPoint>
+    <navPoint id="toc185" playOrder="185"><navLabel><text>Deutéronome 27</text></navLabel><content src="05_27.xhtml" /></navPoint>
+    <navPoint id="toc186" playOrder="186"><navLabel><text>Deutéronome 28</text></navLabel><content src="05_28.xhtml" /></navPoint>
+    <navPoint id="toc187" playOrder="187"><navLabel><text>Deutéronome 29</text></navLabel><content src="05_29.xhtml" /></navPoint>
+    <navPoint id="toc188" playOrder="188"><navLabel><text>Deutéronome 30</text></navLabel><content src="05_30.xhtml" /></navPoint>
+    <navPoint id="toc189" playOrder="189"><navLabel><text>Deutéronome 31</text></navLabel><content src="05_31.xhtml" /></navPoint>
+    <navPoint id="toc190" playOrder="190"><navLabel><text>Deutéronome 32</text></navLabel><content src="05_32.xhtml" /></navPoint>
+    <navPoint id="toc191" playOrder="191"><navLabel><text>Deutéronome 33</text></navLabel><content src="05_33.xhtml" /></navPoint>
+    <navPoint id="toc192" playOrder="192"><navLabel><text>Deutéronome 34</text></navLabel><content src="05_34.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc193" playOrder="193"><navLabel><text>Josué</text></navLabel><content src="06_1.xhtml" />
+    <navPoint id="toc194" playOrder="194"><navLabel><text>Josué 1</text></navLabel><content src="06_1.xhtml" /></navPoint>
+    <navPoint id="toc195" playOrder="195"><navLabel><text>Josué 2</text></navLabel><content src="06_2.xhtml" /></navPoint>
+    <navPoint id="toc196" playOrder="196"><navLabel><text>Josué 3</text></navLabel><content src="06_3.xhtml" /></navPoint>
+    <navPoint id="toc197" playOrder="197"><navLabel><text>Josué 4</text></navLabel><content src="06_4.xhtml" /></navPoint>
+    <navPoint id="toc198" playOrder="198"><navLabel><text>Josué 5</text></navLabel><content src="06_5.xhtml" /></navPoint>
+    <navPoint id="toc199" playOrder="199"><navLabel><text>Josué 6</text></navLabel><content src="06_6.xhtml" /></navPoint>
+    <navPoint id="toc200" playOrder="200"><navLabel><text>Josué 7</text></navLabel><content src="06_7.xhtml" /></navPoint>
+    <navPoint id="toc201" playOrder="201"><navLabel><text>Josué 8</text></navLabel><content src="06_8.xhtml" /></navPoint>
+    <navPoint id="toc202" playOrder="202"><navLabel><text>Josué 9</text></navLabel><content src="06_9.xhtml" /></navPoint>
+    <navPoint id="toc203" playOrder="203"><navLabel><text>Josué 10</text></navLabel><content src="06_10.xhtml" /></navPoint>
+    <navPoint id="toc204" playOrder="204"><navLabel><text>Josué 11</text></navLabel><content src="06_11.xhtml" /></navPoint>
+    <navPoint id="toc205" playOrder="205"><navLabel><text>Josué 12</text></navLabel><content src="06_12.xhtml" /></navPoint>
+    <navPoint id="toc206" playOrder="206"><navLabel><text>Josué 13</text></navLabel><content src="06_13.xhtml" /></navPoint>
+    <navPoint id="toc207" playOrder="207"><navLabel><text>Josué 14</text></navLabel><content src="06_14.xhtml" /></navPoint>
+    <navPoint id="toc208" playOrder="208"><navLabel><text>Josué 15</text></navLabel><content src="06_15.xhtml" /></navPoint>
+    <navPoint id="toc209" playOrder="209"><navLabel><text>Josué 16</text></navLabel><content src="06_16.xhtml" /></navPoint>
+    <navPoint id="toc210" playOrder="210"><navLabel><text>Josué 17</text></navLabel><content src="06_17.xhtml" /></navPoint>
+    <navPoint id="toc211" playOrder="211"><navLabel><text>Josué 18</text></navLabel><content src="06_18.xhtml" /></navPoint>
+    <navPoint id="toc212" playOrder="212"><navLabel><text>Josué 19</text></navLabel><content src="06_19.xhtml" /></navPoint>
+    <navPoint id="toc213" playOrder="213"><navLabel><text>Josué 20</text></navLabel><content src="06_20.xhtml" /></navPoint>
+    <navPoint id="toc214" playOrder="214"><navLabel><text>Josué 21</text></navLabel><content src="06_21.xhtml" /></navPoint>
+    <navPoint id="toc215" playOrder="215"><navLabel><text>Josué 22</text></navLabel><content src="06_22.xhtml" /></navPoint>
+    <navPoint id="toc216" playOrder="216"><navLabel><text>Josué 23</text></navLabel><content src="06_23.xhtml" /></navPoint>
+    <navPoint id="toc217" playOrder="217"><navLabel><text>Josué 24</text></navLabel><content src="06_24.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc218" playOrder="218"><navLabel><text>Juges</text></navLabel><content src="07_1.xhtml" />
+    <navPoint id="toc219" playOrder="219"><navLabel><text>Juges 1</text></navLabel><content src="07_1.xhtml" /></navPoint>
+    <navPoint id="toc220" playOrder="220"><navLabel><text>Juges 2</text></navLabel><content src="07_2.xhtml" /></navPoint>
+    <navPoint id="toc221" playOrder="221"><navLabel><text>Juges 3</text></navLabel><content src="07_3.xhtml" /></navPoint>
+    <navPoint id="toc222" playOrder="222"><navLabel><text>Juges 4</text></navLabel><content src="07_4.xhtml" /></navPoint>
+    <navPoint id="toc223" playOrder="223"><navLabel><text>Juges 5</text></navLabel><content src="07_5.xhtml" /></navPoint>
+    <navPoint id="toc224" playOrder="224"><navLabel><text>Juges 6</text></navLabel><content src="07_6.xhtml" /></navPoint>
+    <navPoint id="toc225" playOrder="225"><navLabel><text>Juges 7</text></navLabel><content src="07_7.xhtml" /></navPoint>
+    <navPoint id="toc226" playOrder="226"><navLabel><text>Juges 8</text></navLabel><content src="07_8.xhtml" /></navPoint>
+    <navPoint id="toc227" playOrder="227"><navLabel><text>Juges 9</text></navLabel><content src="07_9.xhtml" /></navPoint>
+    <navPoint id="toc228" playOrder="228"><navLabel><text>Juges 10</text></navLabel><content src="07_10.xhtml" /></navPoint>
+    <navPoint id="toc229" playOrder="229"><navLabel><text>Juges 11</text></navLabel><content src="07_11.xhtml" /></navPoint>
+    <navPoint id="toc230" playOrder="230"><navLabel><text>Juges 12</text></navLabel><content src="07_12.xhtml" /></navPoint>
+    <navPoint id="toc231" playOrder="231"><navLabel><text>Juges 13</text></navLabel><content src="07_13.xhtml" /></navPoint>
+    <navPoint id="toc232" playOrder="232"><navLabel><text>Juges 14</text></navLabel><content src="07_14.xhtml" /></navPoint>
+    <navPoint id="toc233" playOrder="233"><navLabel><text>Juges 15</text></navLabel><content src="07_15.xhtml" /></navPoint>
+    <navPoint id="toc234" playOrder="234"><navLabel><text>Juges 16</text></navLabel><content src="07_16.xhtml" /></navPoint>
+    <navPoint id="toc235" playOrder="235"><navLabel><text>Juges 17</text></navLabel><content src="07_17.xhtml" /></navPoint>
+    <navPoint id="toc236" playOrder="236"><navLabel><text>Juges 18</text></navLabel><content src="07_18.xhtml" /></navPoint>
+    <navPoint id="toc237" playOrder="237"><navLabel><text>Juges 19</text></navLabel><content src="07_19.xhtml" /></navPoint>
+    <navPoint id="toc238" playOrder="238"><navLabel><text>Juges 20</text></navLabel><content src="07_20.xhtml" /></navPoint>
+    <navPoint id="toc239" playOrder="239"><navLabel><text>Juges 21</text></navLabel><content src="07_21.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc240" playOrder="240"><navLabel><text>Ruth</text></navLabel><content src="08_1.xhtml" />
+    <navPoint id="toc241" playOrder="241"><navLabel><text>Ruth 1</text></navLabel><content src="08_1.xhtml" /></navPoint>
+    <navPoint id="toc242" playOrder="242"><navLabel><text>Ruth 2</text></navLabel><content src="08_2.xhtml" /></navPoint>
+    <navPoint id="toc243" playOrder="243"><navLabel><text>Ruth 3</text></navLabel><content src="08_3.xhtml" /></navPoint>
+    <navPoint id="toc244" playOrder="244"><navLabel><text>Ruth 4</text></navLabel><content src="08_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc245" playOrder="245"><navLabel><text>1 Samuel</text></navLabel><content src="09_1.xhtml" />
+    <navPoint id="toc246" playOrder="246"><navLabel><text>1 Samuel 1</text></navLabel><content src="09_1.xhtml" /></navPoint>
+    <navPoint id="toc247" playOrder="247"><navLabel><text>1 Samuel 2</text></navLabel><content src="09_2.xhtml" /></navPoint>
+    <navPoint id="toc248" playOrder="248"><navLabel><text>1 Samuel 3</text></navLabel><content src="09_3.xhtml" /></navPoint>
+    <navPoint id="toc249" playOrder="249"><navLabel><text>1 Samuel 4</text></navLabel><content src="09_4.xhtml" /></navPoint>
+    <navPoint id="toc250" playOrder="250"><navLabel><text>1 Samuel 5</text></navLabel><content src="09_5.xhtml" /></navPoint>
+    <navPoint id="toc251" playOrder="251"><navLabel><text>1 Samuel 6</text></navLabel><content src="09_6.xhtml" /></navPoint>
+    <navPoint id="toc252" playOrder="252"><navLabel><text>1 Samuel 7</text></navLabel><content src="09_7.xhtml" /></navPoint>
+    <navPoint id="toc253" playOrder="253"><navLabel><text>1 Samuel 8</text></navLabel><content src="09_8.xhtml" /></navPoint>
+    <navPoint id="toc254" playOrder="254"><navLabel><text>1 Samuel 9</text></navLabel><content src="09_9.xhtml" /></navPoint>
+    <navPoint id="toc255" playOrder="255"><navLabel><text>1 Samuel 10</text></navLabel><content src="09_10.xhtml" /></navPoint>
+    <navPoint id="toc256" playOrder="256"><navLabel><text>1 Samuel 11</text></navLabel><content src="09_11.xhtml" /></navPoint>
+    <navPoint id="toc257" playOrder="257"><navLabel><text>1 Samuel 12</text></navLabel><content src="09_12.xhtml" /></navPoint>
+    <navPoint id="toc258" playOrder="258"><navLabel><text>1 Samuel 13</text></navLabel><content src="09_13.xhtml" /></navPoint>
+    <navPoint id="toc259" playOrder="259"><navLabel><text>1 Samuel 14</text></navLabel><content src="09_14.xhtml" /></navPoint>
+    <navPoint id="toc260" playOrder="260"><navLabel><text>1 Samuel 15</text></navLabel><content src="09_15.xhtml" /></navPoint>
+    <navPoint id="toc261" playOrder="261"><navLabel><text>1 Samuel 16</text></navLabel><content src="09_16.xhtml" /></navPoint>
+    <navPoint id="toc262" playOrder="262"><navLabel><text>1 Samuel 17</text></navLabel><content src="09_17.xhtml" /></navPoint>
+    <navPoint id="toc263" playOrder="263"><navLabel><text>1 Samuel 18</text></navLabel><content src="09_18.xhtml" /></navPoint>
+    <navPoint id="toc264" playOrder="264"><navLabel><text>1 Samuel 19</text></navLabel><content src="09_19.xhtml" /></navPoint>
+    <navPoint id="toc265" playOrder="265"><navLabel><text>1 Samuel 20</text></navLabel><content src="09_20.xhtml" /></navPoint>
+    <navPoint id="toc266" playOrder="266"><navLabel><text>1 Samuel 21</text></navLabel><content src="09_21.xhtml" /></navPoint>
+    <navPoint id="toc267" playOrder="267"><navLabel><text>1 Samuel 22</text></navLabel><content src="09_22.xhtml" /></navPoint>
+    <navPoint id="toc268" playOrder="268"><navLabel><text>1 Samuel 23</text></navLabel><content src="09_23.xhtml" /></navPoint>
+    <navPoint id="toc269" playOrder="269"><navLabel><text>1 Samuel 24</text></navLabel><content src="09_24.xhtml" /></navPoint>
+    <navPoint id="toc270" playOrder="270"><navLabel><text>1 Samuel 25</text></navLabel><content src="09_25.xhtml" /></navPoint>
+    <navPoint id="toc271" playOrder="271"><navLabel><text>1 Samuel 26</text></navLabel><content src="09_26.xhtml" /></navPoint>
+    <navPoint id="toc272" playOrder="272"><navLabel><text>1 Samuel 27</text></navLabel><content src="09_27.xhtml" /></navPoint>
+    <navPoint id="toc273" playOrder="273"><navLabel><text>1 Samuel 28</text></navLabel><content src="09_28.xhtml" /></navPoint>
+    <navPoint id="toc274" playOrder="274"><navLabel><text>1 Samuel 29</text></navLabel><content src="09_29.xhtml" /></navPoint>
+    <navPoint id="toc275" playOrder="275"><navLabel><text>1 Samuel 30</text></navLabel><content src="09_30.xhtml" /></navPoint>
+    <navPoint id="toc276" playOrder="276"><navLabel><text>1 Samuel 31</text></navLabel><content src="09_31.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc277" playOrder="277"><navLabel><text>2 Samuel</text></navLabel><content src="10_1.xhtml" />
+    <navPoint id="toc278" playOrder="278"><navLabel><text>2 Samuel 1</text></navLabel><content src="10_1.xhtml" /></navPoint>
+    <navPoint id="toc279" playOrder="279"><navLabel><text>2 Samuel 2</text></navLabel><content src="10_2.xhtml" /></navPoint>
+    <navPoint id="toc280" playOrder="280"><navLabel><text>2 Samuel 3</text></navLabel><content src="10_3.xhtml" /></navPoint>
+    <navPoint id="toc281" playOrder="281"><navLabel><text>2 Samuel 4</text></navLabel><content src="10_4.xhtml" /></navPoint>
+    <navPoint id="toc282" playOrder="282"><navLabel><text>2 Samuel 5</text></navLabel><content src="10_5.xhtml" /></navPoint>
+    <navPoint id="toc283" playOrder="283"><navLabel><text>2 Samuel 6</text></navLabel><content src="10_6.xhtml" /></navPoint>
+    <navPoint id="toc284" playOrder="284"><navLabel><text>2 Samuel 7</text></navLabel><content src="10_7.xhtml" /></navPoint>
+    <navPoint id="toc285" playOrder="285"><navLabel><text>2 Samuel 8</text></navLabel><content src="10_8.xhtml" /></navPoint>
+    <navPoint id="toc286" playOrder="286"><navLabel><text>2 Samuel 9</text></navLabel><content src="10_9.xhtml" /></navPoint>
+    <navPoint id="toc287" playOrder="287"><navLabel><text>2 Samuel 10</text></navLabel><content src="10_10.xhtml" /></navPoint>
+    <navPoint id="toc288" playOrder="288"><navLabel><text>2 Samuel 11</text></navLabel><content src="10_11.xhtml" /></navPoint>
+    <navPoint id="toc289" playOrder="289"><navLabel><text>2 Samuel 12</text></navLabel><content src="10_12.xhtml" /></navPoint>
+    <navPoint id="toc290" playOrder="290"><navLabel><text>2 Samuel 13</text></navLabel><content src="10_13.xhtml" /></navPoint>
+    <navPoint id="toc291" playOrder="291"><navLabel><text>2 Samuel 14</text></navLabel><content src="10_14.xhtml" /></navPoint>
+    <navPoint id="toc292" playOrder="292"><navLabel><text>2 Samuel 15</text></navLabel><content src="10_15.xhtml" /></navPoint>
+    <navPoint id="toc293" playOrder="293"><navLabel><text>2 Samuel 16</text></navLabel><content src="10_16.xhtml" /></navPoint>
+    <navPoint id="toc294" playOrder="294"><navLabel><text>2 Samuel 17</text></navLabel><content src="10_17.xhtml" /></navPoint>
+    <navPoint id="toc295" playOrder="295"><navLabel><text>2 Samuel 18</text></navLabel><content src="10_18.xhtml" /></navPoint>
+    <navPoint id="toc296" playOrder="296"><navLabel><text>2 Samuel 19</text></navLabel><content src="10_19.xhtml" /></navPoint>
+    <navPoint id="toc297" playOrder="297"><navLabel><text>2 Samuel 20</text></navLabel><content src="10_20.xhtml" /></navPoint>
+    <navPoint id="toc298" playOrder="298"><navLabel><text>2 Samuel 21</text></navLabel><content src="10_21.xhtml" /></navPoint>
+    <navPoint id="toc299" playOrder="299"><navLabel><text>2 Samuel 22</text></navLabel><content src="10_22.xhtml" /></navPoint>
+    <navPoint id="toc300" playOrder="300"><navLabel><text>2 Samuel 23</text></navLabel><content src="10_23.xhtml" /></navPoint>
+    <navPoint id="toc301" playOrder="301"><navLabel><text>2 Samuel 24</text></navLabel><content src="10_24.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc302" playOrder="302"><navLabel><text>1 Rois</text></navLabel><content src="11_1.xhtml" />
+    <navPoint id="toc303" playOrder="303"><navLabel><text>1 Rois 1</text></navLabel><content src="11_1.xhtml" /></navPoint>
+    <navPoint id="toc304" playOrder="304"><navLabel><text>1 Rois 2</text></navLabel><content src="11_2.xhtml" /></navPoint>
+    <navPoint id="toc305" playOrder="305"><navLabel><text>1 Rois 3</text></navLabel><content src="11_3.xhtml" /></navPoint>
+    <navPoint id="toc306" playOrder="306"><navLabel><text>1 Rois 4</text></navLabel><content src="11_4.xhtml" /></navPoint>
+    <navPoint id="toc307" playOrder="307"><navLabel><text>1 Rois 5</text></navLabel><content src="11_5.xhtml" /></navPoint>
+    <navPoint id="toc308" playOrder="308"><navLabel><text>1 Rois 6</text></navLabel><content src="11_6.xhtml" /></navPoint>
+    <navPoint id="toc309" playOrder="309"><navLabel><text>1 Rois 7</text></navLabel><content src="11_7.xhtml" /></navPoint>
+    <navPoint id="toc310" playOrder="310"><navLabel><text>1 Rois 8</text></navLabel><content src="11_8.xhtml" /></navPoint>
+    <navPoint id="toc311" playOrder="311"><navLabel><text>1 Rois 9</text></navLabel><content src="11_9.xhtml" /></navPoint>
+    <navPoint id="toc312" playOrder="312"><navLabel><text>1 Rois 10</text></navLabel><content src="11_10.xhtml" /></navPoint>
+    <navPoint id="toc313" playOrder="313"><navLabel><text>1 Rois 11</text></navLabel><content src="11_11.xhtml" /></navPoint>
+    <navPoint id="toc314" playOrder="314"><navLabel><text>1 Rois 12</text></navLabel><content src="11_12.xhtml" /></navPoint>
+    <navPoint id="toc315" playOrder="315"><navLabel><text>1 Rois 13</text></navLabel><content src="11_13.xhtml" /></navPoint>
+    <navPoint id="toc316" playOrder="316"><navLabel><text>1 Rois 14</text></navLabel><content src="11_14.xhtml" /></navPoint>
+    <navPoint id="toc317" playOrder="317"><navLabel><text>1 Rois 15</text></navLabel><content src="11_15.xhtml" /></navPoint>
+    <navPoint id="toc318" playOrder="318"><navLabel><text>1 Rois 16</text></navLabel><content src="11_16.xhtml" /></navPoint>
+    <navPoint id="toc319" playOrder="319"><navLabel><text>1 Rois 17</text></navLabel><content src="11_17.xhtml" /></navPoint>
+    <navPoint id="toc320" playOrder="320"><navLabel><text>1 Rois 18</text></navLabel><content src="11_18.xhtml" /></navPoint>
+    <navPoint id="toc321" playOrder="321"><navLabel><text>1 Rois 19</text></navLabel><content src="11_19.xhtml" /></navPoint>
+    <navPoint id="toc322" playOrder="322"><navLabel><text>1 Rois 20</text></navLabel><content src="11_20.xhtml" /></navPoint>
+    <navPoint id="toc323" playOrder="323"><navLabel><text>1 Rois 21</text></navLabel><content src="11_21.xhtml" /></navPoint>
+    <navPoint id="toc324" playOrder="324"><navLabel><text>1 Rois 22</text></navLabel><content src="11_22.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc325" playOrder="325"><navLabel><text>2 Rois</text></navLabel><content src="12_1.xhtml" />
+    <navPoint id="toc326" playOrder="326"><navLabel><text>2 Rois 1</text></navLabel><content src="12_1.xhtml" /></navPoint>
+    <navPoint id="toc327" playOrder="327"><navLabel><text>2 Rois 2</text></navLabel><content src="12_2.xhtml" /></navPoint>
+    <navPoint id="toc328" playOrder="328"><navLabel><text>2 Rois 3</text></navLabel><content src="12_3.xhtml" /></navPoint>
+    <navPoint id="toc329" playOrder="329"><navLabel><text>2 Rois 4</text></navLabel><content src="12_4.xhtml" /></navPoint>
+    <navPoint id="toc330" playOrder="330"><navLabel><text>2 Rois 5</text></navLabel><content src="12_5.xhtml" /></navPoint>
+    <navPoint id="toc331" playOrder="331"><navLabel><text>2 Rois 6</text></navLabel><content src="12_6.xhtml" /></navPoint>
+    <navPoint id="toc332" playOrder="332"><navLabel><text>2 Rois 7</text></navLabel><content src="12_7.xhtml" /></navPoint>
+    <navPoint id="toc333" playOrder="333"><navLabel><text>2 Rois 8</text></navLabel><content src="12_8.xhtml" /></navPoint>
+    <navPoint id="toc334" playOrder="334"><navLabel><text>2 Rois 9</text></navLabel><content src="12_9.xhtml" /></navPoint>
+    <navPoint id="toc335" playOrder="335"><navLabel><text>2 Rois 10</text></navLabel><content src="12_10.xhtml" /></navPoint>
+    <navPoint id="toc336" playOrder="336"><navLabel><text>2 Rois 11</text></navLabel><content src="12_11.xhtml" /></navPoint>
+    <navPoint id="toc337" playOrder="337"><navLabel><text>2 Rois 12</text></navLabel><content src="12_12.xhtml" /></navPoint>
+    <navPoint id="toc338" playOrder="338"><navLabel><text>2 Rois 13</text></navLabel><content src="12_13.xhtml" /></navPoint>
+    <navPoint id="toc339" playOrder="339"><navLabel><text>2 Rois 14</text></navLabel><content src="12_14.xhtml" /></navPoint>
+    <navPoint id="toc340" playOrder="340"><navLabel><text>2 Rois 15</text></navLabel><content src="12_15.xhtml" /></navPoint>
+    <navPoint id="toc341" playOrder="341"><navLabel><text>2 Rois 16</text></navLabel><content src="12_16.xhtml" /></navPoint>
+    <navPoint id="toc342" playOrder="342"><navLabel><text>2 Rois 17</text></navLabel><content src="12_17.xhtml" /></navPoint>
+    <navPoint id="toc343" playOrder="343"><navLabel><text>2 Rois 18</text></navLabel><content src="12_18.xhtml" /></navPoint>
+    <navPoint id="toc344" playOrder="344"><navLabel><text>2 Rois 19</text></navLabel><content src="12_19.xhtml" /></navPoint>
+    <navPoint id="toc345" playOrder="345"><navLabel><text>2 Rois 20</text></navLabel><content src="12_20.xhtml" /></navPoint>
+    <navPoint id="toc346" playOrder="346"><navLabel><text>2 Rois 21</text></navLabel><content src="12_21.xhtml" /></navPoint>
+    <navPoint id="toc347" playOrder="347"><navLabel><text>2 Rois 22</text></navLabel><content src="12_22.xhtml" /></navPoint>
+    <navPoint id="toc348" playOrder="348"><navLabel><text>2 Rois 23</text></navLabel><content src="12_23.xhtml" /></navPoint>
+    <navPoint id="toc349" playOrder="349"><navLabel><text>2 Rois 24</text></navLabel><content src="12_24.xhtml" /></navPoint>
+    <navPoint id="toc350" playOrder="350"><navLabel><text>2 Rois 25</text></navLabel><content src="12_25.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc351" playOrder="351"><navLabel><text>1 Chroniques</text></navLabel><content src="13_1.xhtml" />
+    <navPoint id="toc352" playOrder="352"><navLabel><text>1 Chroniques 1</text></navLabel><content src="13_1.xhtml" /></navPoint>
+    <navPoint id="toc353" playOrder="353"><navLabel><text>1 Chroniques 2</text></navLabel><content src="13_2.xhtml" /></navPoint>
+    <navPoint id="toc354" playOrder="354"><navLabel><text>1 Chroniques 3</text></navLabel><content src="13_3.xhtml" /></navPoint>
+    <navPoint id="toc355" playOrder="355"><navLabel><text>1 Chroniques 4</text></navLabel><content src="13_4.xhtml" /></navPoint>
+    <navPoint id="toc356" playOrder="356"><navLabel><text>1 Chroniques 5</text></navLabel><content src="13_5.xhtml" /></navPoint>
+    <navPoint id="toc357" playOrder="357"><navLabel><text>1 Chroniques 6</text></navLabel><content src="13_6.xhtml" /></navPoint>
+    <navPoint id="toc358" playOrder="358"><navLabel><text>1 Chroniques 7</text></navLabel><content src="13_7.xhtml" /></navPoint>
+    <navPoint id="toc359" playOrder="359"><navLabel><text>1 Chroniques 8</text></navLabel><content src="13_8.xhtml" /></navPoint>
+    <navPoint id="toc360" playOrder="360"><navLabel><text>1 Chroniques 9</text></navLabel><content src="13_9.xhtml" /></navPoint>
+    <navPoint id="toc361" playOrder="361"><navLabel><text>1 Chroniques 10</text></navLabel><content src="13_10.xhtml" /></navPoint>
+    <navPoint id="toc362" playOrder="362"><navLabel><text>1 Chroniques 11</text></navLabel><content src="13_11.xhtml" /></navPoint>
+    <navPoint id="toc363" playOrder="363"><navLabel><text>1 Chroniques 12</text></navLabel><content src="13_12.xhtml" /></navPoint>
+    <navPoint id="toc364" playOrder="364"><navLabel><text>1 Chroniques 13</text></navLabel><content src="13_13.xhtml" /></navPoint>
+    <navPoint id="toc365" playOrder="365"><navLabel><text>1 Chroniques 14</text></navLabel><content src="13_14.xhtml" /></navPoint>
+    <navPoint id="toc366" playOrder="366"><navLabel><text>1 Chroniques 15</text></navLabel><content src="13_15.xhtml" /></navPoint>
+    <navPoint id="toc367" playOrder="367"><navLabel><text>1 Chroniques 16</text></navLabel><content src="13_16.xhtml" /></navPoint>
+    <navPoint id="toc368" playOrder="368"><navLabel><text>1 Chroniques 17</text></navLabel><content src="13_17.xhtml" /></navPoint>
+    <navPoint id="toc369" playOrder="369"><navLabel><text>1 Chroniques 18</text></navLabel><content src="13_18.xhtml" /></navPoint>
+    <navPoint id="toc370" playOrder="370"><navLabel><text>1 Chroniques 19</text></navLabel><content src="13_19.xhtml" /></navPoint>
+    <navPoint id="toc371" playOrder="371"><navLabel><text>1 Chroniques 20</text></navLabel><content src="13_20.xhtml" /></navPoint>
+    <navPoint id="toc372" playOrder="372"><navLabel><text>1 Chroniques 21</text></navLabel><content src="13_21.xhtml" /></navPoint>
+    <navPoint id="toc373" playOrder="373"><navLabel><text>1 Chroniques 22</text></navLabel><content src="13_22.xhtml" /></navPoint>
+    <navPoint id="toc374" playOrder="374"><navLabel><text>1 Chroniques 23</text></navLabel><content src="13_23.xhtml" /></navPoint>
+    <navPoint id="toc375" playOrder="375"><navLabel><text>1 Chroniques 24</text></navLabel><content src="13_24.xhtml" /></navPoint>
+    <navPoint id="toc376" playOrder="376"><navLabel><text>1 Chroniques 25</text></navLabel><content src="13_25.xhtml" /></navPoint>
+    <navPoint id="toc377" playOrder="377"><navLabel><text>1 Chroniques 26</text></navLabel><content src="13_26.xhtml" /></navPoint>
+    <navPoint id="toc378" playOrder="378"><navLabel><text>1 Chroniques 27</text></navLabel><content src="13_27.xhtml" /></navPoint>
+    <navPoint id="toc379" playOrder="379"><navLabel><text>1 Chroniques 28</text></navLabel><content src="13_28.xhtml" /></navPoint>
+    <navPoint id="toc380" playOrder="380"><navLabel><text>1 Chroniques 29</text></navLabel><content src="13_29.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc381" playOrder="381"><navLabel><text>2 Chroniques</text></navLabel><content src="14_1.xhtml" />
+    <navPoint id="toc382" playOrder="382"><navLabel><text>2 Chroniques 1</text></navLabel><content src="14_1.xhtml" /></navPoint>
+    <navPoint id="toc383" playOrder="383"><navLabel><text>2 Chroniques 2</text></navLabel><content src="14_2.xhtml" /></navPoint>
+    <navPoint id="toc384" playOrder="384"><navLabel><text>2 Chroniques 3</text></navLabel><content src="14_3.xhtml" /></navPoint>
+    <navPoint id="toc385" playOrder="385"><navLabel><text>2 Chroniques 4</text></navLabel><content src="14_4.xhtml" /></navPoint>
+    <navPoint id="toc386" playOrder="386"><navLabel><text>2 Chroniques 5</text></navLabel><content src="14_5.xhtml" /></navPoint>
+    <navPoint id="toc387" playOrder="387"><navLabel><text>2 Chroniques 6</text></navLabel><content src="14_6.xhtml" /></navPoint>
+    <navPoint id="toc388" playOrder="388"><navLabel><text>2 Chroniques 7</text></navLabel><content src="14_7.xhtml" /></navPoint>
+    <navPoint id="toc389" playOrder="389"><navLabel><text>2 Chroniques 8</text></navLabel><content src="14_8.xhtml" /></navPoint>
+    <navPoint id="toc390" playOrder="390"><navLabel><text>2 Chroniques 9</text></navLabel><content src="14_9.xhtml" /></navPoint>
+    <navPoint id="toc391" playOrder="391"><navLabel><text>2 Chroniques 10</text></navLabel><content src="14_10.xhtml" /></navPoint>
+    <navPoint id="toc392" playOrder="392"><navLabel><text>2 Chroniques 11</text></navLabel><content src="14_11.xhtml" /></navPoint>
+    <navPoint id="toc393" playOrder="393"><navLabel><text>2 Chroniques 12</text></navLabel><content src="14_12.xhtml" /></navPoint>
+    <navPoint id="toc394" playOrder="394"><navLabel><text>2 Chroniques 13</text></navLabel><content src="14_13.xhtml" /></navPoint>
+    <navPoint id="toc395" playOrder="395"><navLabel><text>2 Chroniques 14</text></navLabel><content src="14_14.xhtml" /></navPoint>
+    <navPoint id="toc396" playOrder="396"><navLabel><text>2 Chroniques 15</text></navLabel><content src="14_15.xhtml" /></navPoint>
+    <navPoint id="toc397" playOrder="397"><navLabel><text>2 Chroniques 16</text></navLabel><content src="14_16.xhtml" /></navPoint>
+    <navPoint id="toc398" playOrder="398"><navLabel><text>2 Chroniques 17</text></navLabel><content src="14_17.xhtml" /></navPoint>
+    <navPoint id="toc399" playOrder="399"><navLabel><text>2 Chroniques 18</text></navLabel><content src="14_18.xhtml" /></navPoint>
+    <navPoint id="toc400" playOrder="400"><navLabel><text>2 Chroniques 19</text></navLabel><content src="14_19.xhtml" /></navPoint>
+    <navPoint id="toc401" playOrder="401"><navLabel><text>2 Chroniques 20</text></navLabel><content src="14_20.xhtml" /></navPoint>
+    <navPoint id="toc402" playOrder="402"><navLabel><text>2 Chroniques 21</text></navLabel><content src="14_21.xhtml" /></navPoint>
+    <navPoint id="toc403" playOrder="403"><navLabel><text>2 Chroniques 22</text></navLabel><content src="14_22.xhtml" /></navPoint>
+    <navPoint id="toc404" playOrder="404"><navLabel><text>2 Chroniques 23</text></navLabel><content src="14_23.xhtml" /></navPoint>
+    <navPoint id="toc405" playOrder="405"><navLabel><text>2 Chroniques 24</text></navLabel><content src="14_24.xhtml" /></navPoint>
+    <navPoint id="toc406" playOrder="406"><navLabel><text>2 Chroniques 25</text></navLabel><content src="14_25.xhtml" /></navPoint>
+    <navPoint id="toc407" playOrder="407"><navLabel><text>2 Chroniques 26</text></navLabel><content src="14_26.xhtml" /></navPoint>
+    <navPoint id="toc408" playOrder="408"><navLabel><text>2 Chroniques 27</text></navLabel><content src="14_27.xhtml" /></navPoint>
+    <navPoint id="toc409" playOrder="409"><navLabel><text>2 Chroniques 28</text></navLabel><content src="14_28.xhtml" /></navPoint>
+    <navPoint id="toc410" playOrder="410"><navLabel><text>2 Chroniques 29</text></navLabel><content src="14_29.xhtml" /></navPoint>
+    <navPoint id="toc411" playOrder="411"><navLabel><text>2 Chroniques 30</text></navLabel><content src="14_30.xhtml" /></navPoint>
+    <navPoint id="toc412" playOrder="412"><navLabel><text>2 Chroniques 31</text></navLabel><content src="14_31.xhtml" /></navPoint>
+    <navPoint id="toc413" playOrder="413"><navLabel><text>2 Chroniques 32</text></navLabel><content src="14_32.xhtml" /></navPoint>
+    <navPoint id="toc414" playOrder="414"><navLabel><text>2 Chroniques 33</text></navLabel><content src="14_33.xhtml" /></navPoint>
+    <navPoint id="toc415" playOrder="415"><navLabel><text>2 Chroniques 34</text></navLabel><content src="14_34.xhtml" /></navPoint>
+    <navPoint id="toc416" playOrder="416"><navLabel><text>2 Chroniques 35</text></navLabel><content src="14_35.xhtml" /></navPoint>
+    <navPoint id="toc417" playOrder="417"><navLabel><text>2 Chroniques 36</text></navLabel><content src="14_36.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc418" playOrder="418"><navLabel><text>Esdras</text></navLabel><content src="15_1.xhtml" />
+    <navPoint id="toc419" playOrder="419"><navLabel><text>Esdras 1</text></navLabel><content src="15_1.xhtml" /></navPoint>
+    <navPoint id="toc420" playOrder="420"><navLabel><text>Esdras 2</text></navLabel><content src="15_2.xhtml" /></navPoint>
+    <navPoint id="toc421" playOrder="421"><navLabel><text>Esdras 3</text></navLabel><content src="15_3.xhtml" /></navPoint>
+    <navPoint id="toc422" playOrder="422"><navLabel><text>Esdras 4</text></navLabel><content src="15_4.xhtml" /></navPoint>
+    <navPoint id="toc423" playOrder="423"><navLabel><text>Esdras 5</text></navLabel><content src="15_5.xhtml" /></navPoint>
+    <navPoint id="toc424" playOrder="424"><navLabel><text>Esdras 6</text></navLabel><content src="15_6.xhtml" /></navPoint>
+    <navPoint id="toc425" playOrder="425"><navLabel><text>Esdras 7</text></navLabel><content src="15_7.xhtml" /></navPoint>
+    <navPoint id="toc426" playOrder="426"><navLabel><text>Esdras 8</text></navLabel><content src="15_8.xhtml" /></navPoint>
+    <navPoint id="toc427" playOrder="427"><navLabel><text>Esdras 9</text></navLabel><content src="15_9.xhtml" /></navPoint>
+    <navPoint id="toc428" playOrder="428"><navLabel><text>Esdras 10</text></navLabel><content src="15_10.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc429" playOrder="429"><navLabel><text>Néhémie</text></navLabel><content src="16_1.xhtml" />
+    <navPoint id="toc430" playOrder="430"><navLabel><text>Néhémie 1</text></navLabel><content src="16_1.xhtml" /></navPoint>
+    <navPoint id="toc431" playOrder="431"><navLabel><text>Néhémie 2</text></navLabel><content src="16_2.xhtml" /></navPoint>
+    <navPoint id="toc432" playOrder="432"><navLabel><text>Néhémie 3</text></navLabel><content src="16_3.xhtml" /></navPoint>
+    <navPoint id="toc433" playOrder="433"><navLabel><text>Néhémie 4</text></navLabel><content src="16_4.xhtml" /></navPoint>
+    <navPoint id="toc434" playOrder="434"><navLabel><text>Néhémie 5</text></navLabel><content src="16_5.xhtml" /></navPoint>
+    <navPoint id="toc435" playOrder="435"><navLabel><text>Néhémie 6</text></navLabel><content src="16_6.xhtml" /></navPoint>
+    <navPoint id="toc436" playOrder="436"><navLabel><text>Néhémie 7</text></navLabel><content src="16_7.xhtml" /></navPoint>
+    <navPoint id="toc437" playOrder="437"><navLabel><text>Néhémie 8</text></navLabel><content src="16_8.xhtml" /></navPoint>
+    <navPoint id="toc438" playOrder="438"><navLabel><text>Néhémie 9</text></navLabel><content src="16_9.xhtml" /></navPoint>
+    <navPoint id="toc439" playOrder="439"><navLabel><text>Néhémie 10</text></navLabel><content src="16_10.xhtml" /></navPoint>
+    <navPoint id="toc440" playOrder="440"><navLabel><text>Néhémie 11</text></navLabel><content src="16_11.xhtml" /></navPoint>
+    <navPoint id="toc441" playOrder="441"><navLabel><text>Néhémie 12</text></navLabel><content src="16_12.xhtml" /></navPoint>
+    <navPoint id="toc442" playOrder="442"><navLabel><text>Néhémie 13</text></navLabel><content src="16_13.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc443" playOrder="443"><navLabel><text>Esther</text></navLabel><content src="17_1.xhtml" />
+    <navPoint id="toc444" playOrder="444"><navLabel><text>Esther 1</text></navLabel><content src="17_1.xhtml" /></navPoint>
+    <navPoint id="toc445" playOrder="445"><navLabel><text>Esther 2</text></navLabel><content src="17_2.xhtml" /></navPoint>
+    <navPoint id="toc446" playOrder="446"><navLabel><text>Esther 3</text></navLabel><content src="17_3.xhtml" /></navPoint>
+    <navPoint id="toc447" playOrder="447"><navLabel><text>Esther 4</text></navLabel><content src="17_4.xhtml" /></navPoint>
+    <navPoint id="toc448" playOrder="448"><navLabel><text>Esther 5</text></navLabel><content src="17_5.xhtml" /></navPoint>
+    <navPoint id="toc449" playOrder="449"><navLabel><text>Esther 6</text></navLabel><content src="17_6.xhtml" /></navPoint>
+    <navPoint id="toc450" playOrder="450"><navLabel><text>Esther 7</text></navLabel><content src="17_7.xhtml" /></navPoint>
+    <navPoint id="toc451" playOrder="451"><navLabel><text>Esther 8</text></navLabel><content src="17_8.xhtml" /></navPoint>
+    <navPoint id="toc452" playOrder="452"><navLabel><text>Esther 9</text></navLabel><content src="17_9.xhtml" /></navPoint>
+    <navPoint id="toc453" playOrder="453"><navLabel><text>Esther 10</text></navLabel><content src="17_10.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc454" playOrder="454"><navLabel><text>Job</text></navLabel><content src="18_1.xhtml" />
+    <navPoint id="toc455" playOrder="455"><navLabel><text>Job 1</text></navLabel><content src="18_1.xhtml" /></navPoint>
+    <navPoint id="toc456" playOrder="456"><navLabel><text>Job 2</text></navLabel><content src="18_2.xhtml" /></navPoint>
+    <navPoint id="toc457" playOrder="457"><navLabel><text>Job 3</text></navLabel><content src="18_3.xhtml" /></navPoint>
+    <navPoint id="toc458" playOrder="458"><navLabel><text>Job 4</text></navLabel><content src="18_4.xhtml" /></navPoint>
+    <navPoint id="toc459" playOrder="459"><navLabel><text>Job 5</text></navLabel><content src="18_5.xhtml" /></navPoint>
+    <navPoint id="toc460" playOrder="460"><navLabel><text>Job 6</text></navLabel><content src="18_6.xhtml" /></navPoint>
+    <navPoint id="toc461" playOrder="461"><navLabel><text>Job 7</text></navLabel><content src="18_7.xhtml" /></navPoint>
+    <navPoint id="toc462" playOrder="462"><navLabel><text>Job 8</text></navLabel><content src="18_8.xhtml" /></navPoint>
+    <navPoint id="toc463" playOrder="463"><navLabel><text>Job 9</text></navLabel><content src="18_9.xhtml" /></navPoint>
+    <navPoint id="toc464" playOrder="464"><navLabel><text>Job 10</text></navLabel><content src="18_10.xhtml" /></navPoint>
+    <navPoint id="toc465" playOrder="465"><navLabel><text>Job 11</text></navLabel><content src="18_11.xhtml" /></navPoint>
+    <navPoint id="toc466" playOrder="466"><navLabel><text>Job 12</text></navLabel><content src="18_12.xhtml" /></navPoint>
+    <navPoint id="toc467" playOrder="467"><navLabel><text>Job 13</text></navLabel><content src="18_13.xhtml" /></navPoint>
+    <navPoint id="toc468" playOrder="468"><navLabel><text>Job 14</text></navLabel><content src="18_14.xhtml" /></navPoint>
+    <navPoint id="toc469" playOrder="469"><navLabel><text>Job 15</text></navLabel><content src="18_15.xhtml" /></navPoint>
+    <navPoint id="toc470" playOrder="470"><navLabel><text>Job 16</text></navLabel><content src="18_16.xhtml" /></navPoint>
+    <navPoint id="toc471" playOrder="471"><navLabel><text>Job 17</text></navLabel><content src="18_17.xhtml" /></navPoint>
+    <navPoint id="toc472" playOrder="472"><navLabel><text>Job 18</text></navLabel><content src="18_18.xhtml" /></navPoint>
+    <navPoint id="toc473" playOrder="473"><navLabel><text>Job 19</text></navLabel><content src="18_19.xhtml" /></navPoint>
+    <navPoint id="toc474" playOrder="474"><navLabel><text>Job 20</text></navLabel><content src="18_20.xhtml" /></navPoint>
+    <navPoint id="toc475" playOrder="475"><navLabel><text>Job 21</text></navLabel><content src="18_21.xhtml" /></navPoint>
+    <navPoint id="toc476" playOrder="476"><navLabel><text>Job 22</text></navLabel><content src="18_22.xhtml" /></navPoint>
+    <navPoint id="toc477" playOrder="477"><navLabel><text>Job 23</text></navLabel><content src="18_23.xhtml" /></navPoint>
+    <navPoint id="toc478" playOrder="478"><navLabel><text>Job 24</text></navLabel><content src="18_24.xhtml" /></navPoint>
+    <navPoint id="toc479" playOrder="479"><navLabel><text>Job 25</text></navLabel><content src="18_25.xhtml" /></navPoint>
+    <navPoint id="toc480" playOrder="480"><navLabel><text>Job 26</text></navLabel><content src="18_26.xhtml" /></navPoint>
+    <navPoint id="toc481" playOrder="481"><navLabel><text>Job 27</text></navLabel><content src="18_27.xhtml" /></navPoint>
+    <navPoint id="toc482" playOrder="482"><navLabel><text>Job 28</text></navLabel><content src="18_28.xhtml" /></navPoint>
+    <navPoint id="toc483" playOrder="483"><navLabel><text>Job 29</text></navLabel><content src="18_29.xhtml" /></navPoint>
+    <navPoint id="toc484" playOrder="484"><navLabel><text>Job 30</text></navLabel><content src="18_30.xhtml" /></navPoint>
+    <navPoint id="toc485" playOrder="485"><navLabel><text>Job 31</text></navLabel><content src="18_31.xhtml" /></navPoint>
+    <navPoint id="toc486" playOrder="486"><navLabel><text>Job 32</text></navLabel><content src="18_32.xhtml" /></navPoint>
+    <navPoint id="toc487" playOrder="487"><navLabel><text>Job 33</text></navLabel><content src="18_33.xhtml" /></navPoint>
+    <navPoint id="toc488" playOrder="488"><navLabel><text>Job 34</text></navLabel><content src="18_34.xhtml" /></navPoint>
+    <navPoint id="toc489" playOrder="489"><navLabel><text>Job 35</text></navLabel><content src="18_35.xhtml" /></navPoint>
+    <navPoint id="toc490" playOrder="490"><navLabel><text>Job 36</text></navLabel><content src="18_36.xhtml" /></navPoint>
+    <navPoint id="toc491" playOrder="491"><navLabel><text>Job 37</text></navLabel><content src="18_37.xhtml" /></navPoint>
+    <navPoint id="toc492" playOrder="492"><navLabel><text>Job 38</text></navLabel><content src="18_38.xhtml" /></navPoint>
+    <navPoint id="toc493" playOrder="493"><navLabel><text>Job 39</text></navLabel><content src="18_39.xhtml" /></navPoint>
+    <navPoint id="toc494" playOrder="494"><navLabel><text>Job 40</text></navLabel><content src="18_40.xhtml" /></navPoint>
+    <navPoint id="toc495" playOrder="495"><navLabel><text>Job 41</text></navLabel><content src="18_41.xhtml" /></navPoint>
+    <navPoint id="toc496" playOrder="496"><navLabel><text>Job 42</text></navLabel><content src="18_42.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc497" playOrder="497"><navLabel><text>Psaume</text></navLabel><content src="19_1.xhtml" />
+    <navPoint id="toc498" playOrder="498"><navLabel><text>Psaume 1</text></navLabel><content src="19_1.xhtml" /></navPoint>
+    <navPoint id="toc499" playOrder="499"><navLabel><text>Psaume 2</text></navLabel><content src="19_2.xhtml" /></navPoint>
+    <navPoint id="toc500" playOrder="500"><navLabel><text>Psaume 3</text></navLabel><content src="19_3.xhtml" /></navPoint>
+    <navPoint id="toc501" playOrder="501"><navLabel><text>Psaume 4</text></navLabel><content src="19_4.xhtml" /></navPoint>
+    <navPoint id="toc502" playOrder="502"><navLabel><text>Psaume 5</text></navLabel><content src="19_5.xhtml" /></navPoint>
+    <navPoint id="toc503" playOrder="503"><navLabel><text>Psaume 6</text></navLabel><content src="19_6.xhtml" /></navPoint>
+    <navPoint id="toc504" playOrder="504"><navLabel><text>Psaume 7</text></navLabel><content src="19_7.xhtml" /></navPoint>
+    <navPoint id="toc505" playOrder="505"><navLabel><text>Psaume 8</text></navLabel><content src="19_8.xhtml" /></navPoint>
+    <navPoint id="toc506" playOrder="506"><navLabel><text>Psaume 9</text></navLabel><content src="19_9.xhtml" /></navPoint>
+    <navPoint id="toc507" playOrder="507"><navLabel><text>Psaume 10</text></navLabel><content src="19_10.xhtml" /></navPoint>
+    <navPoint id="toc508" playOrder="508"><navLabel><text>Psaume 11</text></navLabel><content src="19_11.xhtml" /></navPoint>
+    <navPoint id="toc509" playOrder="509"><navLabel><text>Psaume 12</text></navLabel><content src="19_12.xhtml" /></navPoint>
+    <navPoint id="toc510" playOrder="510"><navLabel><text>Psaume 13</text></navLabel><content src="19_13.xhtml" /></navPoint>
+    <navPoint id="toc511" playOrder="511"><navLabel><text>Psaume 14</text></navLabel><content src="19_14.xhtml" /></navPoint>
+    <navPoint id="toc512" playOrder="512"><navLabel><text>Psaume 15</text></navLabel><content src="19_15.xhtml" /></navPoint>
+    <navPoint id="toc513" playOrder="513"><navLabel><text>Psaume 16</text></navLabel><content src="19_16.xhtml" /></navPoint>
+    <navPoint id="toc514" playOrder="514"><navLabel><text>Psaume 17</text></navLabel><content src="19_17.xhtml" /></navPoint>
+    <navPoint id="toc515" playOrder="515"><navLabel><text>Psaume 18</text></navLabel><content src="19_18.xhtml" /></navPoint>
+    <navPoint id="toc516" playOrder="516"><navLabel><text>Psaume 19</text></navLabel><content src="19_19.xhtml" /></navPoint>
+    <navPoint id="toc517" playOrder="517"><navLabel><text>Psaume 20</text></navLabel><content src="19_20.xhtml" /></navPoint>
+    <navPoint id="toc518" playOrder="518"><navLabel><text>Psaume 21</text></navLabel><content src="19_21.xhtml" /></navPoint>
+    <navPoint id="toc519" playOrder="519"><navLabel><text>Psaume 22</text></navLabel><content src="19_22.xhtml" /></navPoint>
+    <navPoint id="toc520" playOrder="520"><navLabel><text>Psaume 23</text></navLabel><content src="19_23.xhtml" /></navPoint>
+    <navPoint id="toc521" playOrder="521"><navLabel><text>Psaume 24</text></navLabel><content src="19_24.xhtml" /></navPoint>
+    <navPoint id="toc522" playOrder="522"><navLabel><text>Psaume 25</text></navLabel><content src="19_25.xhtml" /></navPoint>
+    <navPoint id="toc523" playOrder="523"><navLabel><text>Psaume 26</text></navLabel><content src="19_26.xhtml" /></navPoint>
+    <navPoint id="toc524" playOrder="524"><navLabel><text>Psaume 27</text></navLabel><content src="19_27.xhtml" /></navPoint>
+    <navPoint id="toc525" playOrder="525"><navLabel><text>Psaume 28</text></navLabel><content src="19_28.xhtml" /></navPoint>
+    <navPoint id="toc526" playOrder="526"><navLabel><text>Psaume 29</text></navLabel><content src="19_29.xhtml" /></navPoint>
+    <navPoint id="toc527" playOrder="527"><navLabel><text>Psaume 30</text></navLabel><content src="19_30.xhtml" /></navPoint>
+    <navPoint id="toc528" playOrder="528"><navLabel><text>Psaume 31</text></navLabel><content src="19_31.xhtml" /></navPoint>
+    <navPoint id="toc529" playOrder="529"><navLabel><text>Psaume 32</text></navLabel><content src="19_32.xhtml" /></navPoint>
+    <navPoint id="toc530" playOrder="530"><navLabel><text>Psaume 33</text></navLabel><content src="19_33.xhtml" /></navPoint>
+    <navPoint id="toc531" playOrder="531"><navLabel><text>Psaume 34</text></navLabel><content src="19_34.xhtml" /></navPoint>
+    <navPoint id="toc532" playOrder="532"><navLabel><text>Psaume 35</text></navLabel><content src="19_35.xhtml" /></navPoint>
+    <navPoint id="toc533" playOrder="533"><navLabel><text>Psaume 36</text></navLabel><content src="19_36.xhtml" /></navPoint>
+    <navPoint id="toc534" playOrder="534"><navLabel><text>Psaume 37</text></navLabel><content src="19_37.xhtml" /></navPoint>
+    <navPoint id="toc535" playOrder="535"><navLabel><text>Psaume 38</text></navLabel><content src="19_38.xhtml" /></navPoint>
+    <navPoint id="toc536" playOrder="536"><navLabel><text>Psaume 39</text></navLabel><content src="19_39.xhtml" /></navPoint>
+    <navPoint id="toc537" playOrder="537"><navLabel><text>Psaume 40</text></navLabel><content src="19_40.xhtml" /></navPoint>
+    <navPoint id="toc538" playOrder="538"><navLabel><text>Psaume 41</text></navLabel><content src="19_41.xhtml" /></navPoint>
+    <navPoint id="toc539" playOrder="539"><navLabel><text>Psaume 42</text></navLabel><content src="19_42.xhtml" /></navPoint>
+    <navPoint id="toc540" playOrder="540"><navLabel><text>Psaume 43</text></navLabel><content src="19_43.xhtml" /></navPoint>
+    <navPoint id="toc541" playOrder="541"><navLabel><text>Psaume 44</text></navLabel><content src="19_44.xhtml" /></navPoint>
+    <navPoint id="toc542" playOrder="542"><navLabel><text>Psaume 45</text></navLabel><content src="19_45.xhtml" /></navPoint>
+    <navPoint id="toc543" playOrder="543"><navLabel><text>Psaume 46</text></navLabel><content src="19_46.xhtml" /></navPoint>
+    <navPoint id="toc544" playOrder="544"><navLabel><text>Psaume 47</text></navLabel><content src="19_47.xhtml" /></navPoint>
+    <navPoint id="toc545" playOrder="545"><navLabel><text>Psaume 48</text></navLabel><content src="19_48.xhtml" /></navPoint>
+    <navPoint id="toc546" playOrder="546"><navLabel><text>Psaume 49</text></navLabel><content src="19_49.xhtml" /></navPoint>
+    <navPoint id="toc547" playOrder="547"><navLabel><text>Psaume 50</text></navLabel><content src="19_50.xhtml" /></navPoint>
+    <navPoint id="toc548" playOrder="548"><navLabel><text>Psaume 51</text></navLabel><content src="19_51.xhtml" /></navPoint>
+    <navPoint id="toc549" playOrder="549"><navLabel><text>Psaume 52</text></navLabel><content src="19_52.xhtml" /></navPoint>
+    <navPoint id="toc550" playOrder="550"><navLabel><text>Psaume 53</text></navLabel><content src="19_53.xhtml" /></navPoint>
+    <navPoint id="toc551" playOrder="551"><navLabel><text>Psaume 54</text></navLabel><content src="19_54.xhtml" /></navPoint>
+    <navPoint id="toc552" playOrder="552"><navLabel><text>Psaume 55</text></navLabel><content src="19_55.xhtml" /></navPoint>
+    <navPoint id="toc553" playOrder="553"><navLabel><text>Psaume 56</text></navLabel><content src="19_56.xhtml" /></navPoint>
+    <navPoint id="toc554" playOrder="554"><navLabel><text>Psaume 57</text></navLabel><content src="19_57.xhtml" /></navPoint>
+    <navPoint id="toc555" playOrder="555"><navLabel><text>Psaume 58</text></navLabel><content src="19_58.xhtml" /></navPoint>
+    <navPoint id="toc556" playOrder="556"><navLabel><text>Psaume 59</text></navLabel><content src="19_59.xhtml" /></navPoint>
+    <navPoint id="toc557" playOrder="557"><navLabel><text>Psaume 60</text></navLabel><content src="19_60.xhtml" /></navPoint>
+    <navPoint id="toc558" playOrder="558"><navLabel><text>Psaume 61</text></navLabel><content src="19_61.xhtml" /></navPoint>
+    <navPoint id="toc559" playOrder="559"><navLabel><text>Psaume 62</text></navLabel><content src="19_62.xhtml" /></navPoint>
+    <navPoint id="toc560" playOrder="560"><navLabel><text>Psaume 63</text></navLabel><content src="19_63.xhtml" /></navPoint>
+    <navPoint id="toc561" playOrder="561"><navLabel><text>Psaume 64</text></navLabel><content src="19_64.xhtml" /></navPoint>
+    <navPoint id="toc562" playOrder="562"><navLabel><text>Psaume 65</text></navLabel><content src="19_65.xhtml" /></navPoint>
+    <navPoint id="toc563" playOrder="563"><navLabel><text>Psaume 66</text></navLabel><content src="19_66.xhtml" /></navPoint>
+    <navPoint id="toc564" playOrder="564"><navLabel><text>Psaume 67</text></navLabel><content src="19_67.xhtml" /></navPoint>
+    <navPoint id="toc565" playOrder="565"><navLabel><text>Psaume 68</text></navLabel><content src="19_68.xhtml" /></navPoint>
+    <navPoint id="toc566" playOrder="566"><navLabel><text>Psaume 69</text></navLabel><content src="19_69.xhtml" /></navPoint>
+    <navPoint id="toc567" playOrder="567"><navLabel><text>Psaume 70</text></navLabel><content src="19_70.xhtml" /></navPoint>
+    <navPoint id="toc568" playOrder="568"><navLabel><text>Psaume 71</text></navLabel><content src="19_71.xhtml" /></navPoint>
+    <navPoint id="toc569" playOrder="569"><navLabel><text>Psaume 72</text></navLabel><content src="19_72.xhtml" /></navPoint>
+    <navPoint id="toc570" playOrder="570"><navLabel><text>Psaume 73</text></navLabel><content src="19_73.xhtml" /></navPoint>
+    <navPoint id="toc571" playOrder="571"><navLabel><text>Psaume 74</text></navLabel><content src="19_74.xhtml" /></navPoint>
+    <navPoint id="toc572" playOrder="572"><navLabel><text>Psaume 75</text></navLabel><content src="19_75.xhtml" /></navPoint>
+    <navPoint id="toc573" playOrder="573"><navLabel><text>Psaume 76</text></navLabel><content src="19_76.xhtml" /></navPoint>
+    <navPoint id="toc574" playOrder="574"><navLabel><text>Psaume 77</text></navLabel><content src="19_77.xhtml" /></navPoint>
+    <navPoint id="toc575" playOrder="575"><navLabel><text>Psaume 78</text></navLabel><content src="19_78.xhtml" /></navPoint>
+    <navPoint id="toc576" playOrder="576"><navLabel><text>Psaume 79</text></navLabel><content src="19_79.xhtml" /></navPoint>
+    <navPoint id="toc577" playOrder="577"><navLabel><text>Psaume 80</text></navLabel><content src="19_80.xhtml" /></navPoint>
+    <navPoint id="toc578" playOrder="578"><navLabel><text>Psaume 81</text></navLabel><content src="19_81.xhtml" /></navPoint>
+    <navPoint id="toc579" playOrder="579"><navLabel><text>Psaume 82</text></navLabel><content src="19_82.xhtml" /></navPoint>
+    <navPoint id="toc580" playOrder="580"><navLabel><text>Psaume 83</text></navLabel><content src="19_83.xhtml" /></navPoint>
+    <navPoint id="toc581" playOrder="581"><navLabel><text>Psaume 84</text></navLabel><content src="19_84.xhtml" /></navPoint>
+    <navPoint id="toc582" playOrder="582"><navLabel><text>Psaume 85</text></navLabel><content src="19_85.xhtml" /></navPoint>
+    <navPoint id="toc583" playOrder="583"><navLabel><text>Psaume 86</text></navLabel><content src="19_86.xhtml" /></navPoint>
+    <navPoint id="toc584" playOrder="584"><navLabel><text>Psaume 87</text></navLabel><content src="19_87.xhtml" /></navPoint>
+    <navPoint id="toc585" playOrder="585"><navLabel><text>Psaume 88</text></navLabel><content src="19_88.xhtml" /></navPoint>
+    <navPoint id="toc586" playOrder="586"><navLabel><text>Psaume 89</text></navLabel><content src="19_89.xhtml" /></navPoint>
+    <navPoint id="toc587" playOrder="587"><navLabel><text>Psaume 90</text></navLabel><content src="19_90.xhtml" /></navPoint>
+    <navPoint id="toc588" playOrder="588"><navLabel><text>Psaume 91</text></navLabel><content src="19_91.xhtml" /></navPoint>
+    <navPoint id="toc589" playOrder="589"><navLabel><text>Psaume 92</text></navLabel><content src="19_92.xhtml" /></navPoint>
+    <navPoint id="toc590" playOrder="590"><navLabel><text>Psaume 93</text></navLabel><content src="19_93.xhtml" /></navPoint>
+    <navPoint id="toc591" playOrder="591"><navLabel><text>Psaume 94</text></navLabel><content src="19_94.xhtml" /></navPoint>
+    <navPoint id="toc592" playOrder="592"><navLabel><text>Psaume 95</text></navLabel><content src="19_95.xhtml" /></navPoint>
+    <navPoint id="toc593" playOrder="593"><navLabel><text>Psaume 96</text></navLabel><content src="19_96.xhtml" /></navPoint>
+    <navPoint id="toc594" playOrder="594"><navLabel><text>Psaume 97</text></navLabel><content src="19_97.xhtml" /></navPoint>
+    <navPoint id="toc595" playOrder="595"><navLabel><text>Psaume 98</text></navLabel><content src="19_98.xhtml" /></navPoint>
+    <navPoint id="toc596" playOrder="596"><navLabel><text>Psaume 99</text></navLabel><content src="19_99.xhtml" /></navPoint>
+    <navPoint id="toc597" playOrder="597"><navLabel><text>Psaume 100</text></navLabel><content src="19_100.xhtml" /></navPoint>
+    <navPoint id="toc598" playOrder="598"><navLabel><text>Psaume 101</text></navLabel><content src="19_101.xhtml" /></navPoint>
+    <navPoint id="toc599" playOrder="599"><navLabel><text>Psaume 102</text></navLabel><content src="19_102.xhtml" /></navPoint>
+    <navPoint id="toc600" playOrder="600"><navLabel><text>Psaume 103</text></navLabel><content src="19_103.xhtml" /></navPoint>
+    <navPoint id="toc601" playOrder="601"><navLabel><text>Psaume 104</text></navLabel><content src="19_104.xhtml" /></navPoint>
+    <navPoint id="toc602" playOrder="602"><navLabel><text>Psaume 105</text></navLabel><content src="19_105.xhtml" /></navPoint>
+    <navPoint id="toc603" playOrder="603"><navLabel><text>Psaume 106</text></navLabel><content src="19_106.xhtml" /></navPoint>
+    <navPoint id="toc604" playOrder="604"><navLabel><text>Psaume 107</text></navLabel><content src="19_107.xhtml" /></navPoint>
+    <navPoint id="toc605" playOrder="605"><navLabel><text>Psaume 108</text></navLabel><content src="19_108.xhtml" /></navPoint>
+    <navPoint id="toc606" playOrder="606"><navLabel><text>Psaume 109</text></navLabel><content src="19_109.xhtml" /></navPoint>
+    <navPoint id="toc607" playOrder="607"><navLabel><text>Psaume 110</text></navLabel><content src="19_110.xhtml" /></navPoint>
+    <navPoint id="toc608" playOrder="608"><navLabel><text>Psaume 111</text></navLabel><content src="19_111.xhtml" /></navPoint>
+    <navPoint id="toc609" playOrder="609"><navLabel><text>Psaume 112</text></navLabel><content src="19_112.xhtml" /></navPoint>
+    <navPoint id="toc610" playOrder="610"><navLabel><text>Psaume 113</text></navLabel><content src="19_113.xhtml" /></navPoint>
+    <navPoint id="toc611" playOrder="611"><navLabel><text>Psaume 114</text></navLabel><content src="19_114.xhtml" /></navPoint>
+    <navPoint id="toc612" playOrder="612"><navLabel><text>Psaume 115</text></navLabel><content src="19_115.xhtml" /></navPoint>
+    <navPoint id="toc613" playOrder="613"><navLabel><text>Psaume 116</text></navLabel><content src="19_116.xhtml" /></navPoint>
+    <navPoint id="toc614" playOrder="614"><navLabel><text>Psaume 117</text></navLabel><content src="19_117.xhtml" /></navPoint>
+    <navPoint id="toc615" playOrder="615"><navLabel><text>Psaume 118</text></navLabel><content src="19_118.xhtml" /></navPoint>
+    <navPoint id="toc616" playOrder="616"><navLabel><text>Psaume 119</text></navLabel><content src="19_119.xhtml" /></navPoint>
+    <navPoint id="toc617" playOrder="617"><navLabel><text>Psaume 120</text></navLabel><content src="19_120.xhtml" /></navPoint>
+    <navPoint id="toc618" playOrder="618"><navLabel><text>Psaume 121</text></navLabel><content src="19_121.xhtml" /></navPoint>
+    <navPoint id="toc619" playOrder="619"><navLabel><text>Psaume 122</text></navLabel><content src="19_122.xhtml" /></navPoint>
+    <navPoint id="toc620" playOrder="620"><navLabel><text>Psaume 123</text></navLabel><content src="19_123.xhtml" /></navPoint>
+    <navPoint id="toc621" playOrder="621"><navLabel><text>Psaume 124</text></navLabel><content src="19_124.xhtml" /></navPoint>
+    <navPoint id="toc622" playOrder="622"><navLabel><text>Psaume 125</text></navLabel><content src="19_125.xhtml" /></navPoint>
+    <navPoint id="toc623" playOrder="623"><navLabel><text>Psaume 126</text></navLabel><content src="19_126.xhtml" /></navPoint>
+    <navPoint id="toc624" playOrder="624"><navLabel><text>Psaume 127</text></navLabel><content src="19_127.xhtml" /></navPoint>
+    <navPoint id="toc625" playOrder="625"><navLabel><text>Psaume 128</text></navLabel><content src="19_128.xhtml" /></navPoint>
+    <navPoint id="toc626" playOrder="626"><navLabel><text>Psaume 129</text></navLabel><content src="19_129.xhtml" /></navPoint>
+    <navPoint id="toc627" playOrder="627"><navLabel><text>Psaume 130</text></navLabel><content src="19_130.xhtml" /></navPoint>
+    <navPoint id="toc628" playOrder="628"><navLabel><text>Psaume 131</text></navLabel><content src="19_131.xhtml" /></navPoint>
+    <navPoint id="toc629" playOrder="629"><navLabel><text>Psaume 132</text></navLabel><content src="19_132.xhtml" /></navPoint>
+    <navPoint id="toc630" playOrder="630"><navLabel><text>Psaume 133</text></navLabel><content src="19_133.xhtml" /></navPoint>
+    <navPoint id="toc631" playOrder="631"><navLabel><text>Psaume 134</text></navLabel><content src="19_134.xhtml" /></navPoint>
+    <navPoint id="toc632" playOrder="632"><navLabel><text>Psaume 135</text></navLabel><content src="19_135.xhtml" /></navPoint>
+    <navPoint id="toc633" playOrder="633"><navLabel><text>Psaume 136</text></navLabel><content src="19_136.xhtml" /></navPoint>
+    <navPoint id="toc634" playOrder="634"><navLabel><text>Psaume 137</text></navLabel><content src="19_137.xhtml" /></navPoint>
+    <navPoint id="toc635" playOrder="635"><navLabel><text>Psaume 138</text></navLabel><content src="19_138.xhtml" /></navPoint>
+    <navPoint id="toc636" playOrder="636"><navLabel><text>Psaume 139</text></navLabel><content src="19_139.xhtml" /></navPoint>
+    <navPoint id="toc637" playOrder="637"><navLabel><text>Psaume 140</text></navLabel><content src="19_140.xhtml" /></navPoint>
+    <navPoint id="toc638" playOrder="638"><navLabel><text>Psaume 141</text></navLabel><content src="19_141.xhtml" /></navPoint>
+    <navPoint id="toc639" playOrder="639"><navLabel><text>Psaume 142</text></navLabel><content src="19_142.xhtml" /></navPoint>
+    <navPoint id="toc640" playOrder="640"><navLabel><text>Psaume 143</text></navLabel><content src="19_143.xhtml" /></navPoint>
+    <navPoint id="toc641" playOrder="641"><navLabel><text>Psaume 144</text></navLabel><content src="19_144.xhtml" /></navPoint>
+    <navPoint id="toc642" playOrder="642"><navLabel><text>Psaume 145</text></navLabel><content src="19_145.xhtml" /></navPoint>
+    <navPoint id="toc643" playOrder="643"><navLabel><text>Psaume 146</text></navLabel><content src="19_146.xhtml" /></navPoint>
+    <navPoint id="toc644" playOrder="644"><navLabel><text>Psaume 147</text></navLabel><content src="19_147.xhtml" /></navPoint>
+    <navPoint id="toc645" playOrder="645"><navLabel><text>Psaume 148</text></navLabel><content src="19_148.xhtml" /></navPoint>
+    <navPoint id="toc646" playOrder="646"><navLabel><text>Psaume 149</text></navLabel><content src="19_149.xhtml" /></navPoint>
+    <navPoint id="toc647" playOrder="647"><navLabel><text>Psaume 150</text></navLabel><content src="19_150.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc648" playOrder="648"><navLabel><text>Proverbes</text></navLabel><content src="20_1.xhtml" />
+    <navPoint id="toc649" playOrder="649"><navLabel><text>Proverbes 1</text></navLabel><content src="20_1.xhtml" /></navPoint>
+    <navPoint id="toc650" playOrder="650"><navLabel><text>Proverbes 2</text></navLabel><content src="20_2.xhtml" /></navPoint>
+    <navPoint id="toc651" playOrder="651"><navLabel><text>Proverbes 3</text></navLabel><content src="20_3.xhtml" /></navPoint>
+    <navPoint id="toc652" playOrder="652"><navLabel><text>Proverbes 4</text></navLabel><content src="20_4.xhtml" /></navPoint>
+    <navPoint id="toc653" playOrder="653"><navLabel><text>Proverbes 5</text></navLabel><content src="20_5.xhtml" /></navPoint>
+    <navPoint id="toc654" playOrder="654"><navLabel><text>Proverbes 6</text></navLabel><content src="20_6.xhtml" /></navPoint>
+    <navPoint id="toc655" playOrder="655"><navLabel><text>Proverbes 7</text></navLabel><content src="20_7.xhtml" /></navPoint>
+    <navPoint id="toc656" playOrder="656"><navLabel><text>Proverbes 8</text></navLabel><content src="20_8.xhtml" /></navPoint>
+    <navPoint id="toc657" playOrder="657"><navLabel><text>Proverbes 9</text></navLabel><content src="20_9.xhtml" /></navPoint>
+    <navPoint id="toc658" playOrder="658"><navLabel><text>Proverbes 10</text></navLabel><content src="20_10.xhtml" /></navPoint>
+    <navPoint id="toc659" playOrder="659"><navLabel><text>Proverbes 11</text></navLabel><content src="20_11.xhtml" /></navPoint>
+    <navPoint id="toc660" playOrder="660"><navLabel><text>Proverbes 12</text></navLabel><content src="20_12.xhtml" /></navPoint>
+    <navPoint id="toc661" playOrder="661"><navLabel><text>Proverbes 13</text></navLabel><content src="20_13.xhtml" /></navPoint>
+    <navPoint id="toc662" playOrder="662"><navLabel><text>Proverbes 14</text></navLabel><content src="20_14.xhtml" /></navPoint>
+    <navPoint id="toc663" playOrder="663"><navLabel><text>Proverbes 15</text></navLabel><content src="20_15.xhtml" /></navPoint>
+    <navPoint id="toc664" playOrder="664"><navLabel><text>Proverbes 16</text></navLabel><content src="20_16.xhtml" /></navPoint>
+    <navPoint id="toc665" playOrder="665"><navLabel><text>Proverbes 17</text></navLabel><content src="20_17.xhtml" /></navPoint>
+    <navPoint id="toc666" playOrder="666"><navLabel><text>Proverbes 18</text></navLabel><content src="20_18.xhtml" /></navPoint>
+    <navPoint id="toc667" playOrder="667"><navLabel><text>Proverbes 19</text></navLabel><content src="20_19.xhtml" /></navPoint>
+    <navPoint id="toc668" playOrder="668"><navLabel><text>Proverbes 20</text></navLabel><content src="20_20.xhtml" /></navPoint>
+    <navPoint id="toc669" playOrder="669"><navLabel><text>Proverbes 21</text></navLabel><content src="20_21.xhtml" /></navPoint>
+    <navPoint id="toc670" playOrder="670"><navLabel><text>Proverbes 22</text></navLabel><content src="20_22.xhtml" /></navPoint>
+    <navPoint id="toc671" playOrder="671"><navLabel><text>Proverbes 23</text></navLabel><content src="20_23.xhtml" /></navPoint>
+    <navPoint id="toc672" playOrder="672"><navLabel><text>Proverbes 24</text></navLabel><content src="20_24.xhtml" /></navPoint>
+    <navPoint id="toc673" playOrder="673"><navLabel><text>Proverbes 25</text></navLabel><content src="20_25.xhtml" /></navPoint>
+    <navPoint id="toc674" playOrder="674"><navLabel><text>Proverbes 26</text></navLabel><content src="20_26.xhtml" /></navPoint>
+    <navPoint id="toc675" playOrder="675"><navLabel><text>Proverbes 27</text></navLabel><content src="20_27.xhtml" /></navPoint>
+    <navPoint id="toc676" playOrder="676"><navLabel><text>Proverbes 28</text></navLabel><content src="20_28.xhtml" /></navPoint>
+    <navPoint id="toc677" playOrder="677"><navLabel><text>Proverbes 29</text></navLabel><content src="20_29.xhtml" /></navPoint>
+    <navPoint id="toc678" playOrder="678"><navLabel><text>Proverbes 30</text></navLabel><content src="20_30.xhtml" /></navPoint>
+    <navPoint id="toc679" playOrder="679"><navLabel><text>Proverbes 31</text></navLabel><content src="20_31.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc680" playOrder="680"><navLabel><text>Ecclésiaste</text></navLabel><content src="21_1.xhtml" />
+    <navPoint id="toc681" playOrder="681"><navLabel><text>Ecclésiaste 1</text></navLabel><content src="21_1.xhtml" /></navPoint>
+    <navPoint id="toc682" playOrder="682"><navLabel><text>Ecclésiaste 2</text></navLabel><content src="21_2.xhtml" /></navPoint>
+    <navPoint id="toc683" playOrder="683"><navLabel><text>Ecclésiaste 3</text></navLabel><content src="21_3.xhtml" /></navPoint>
+    <navPoint id="toc684" playOrder="684"><navLabel><text>Ecclésiaste 4</text></navLabel><content src="21_4.xhtml" /></navPoint>
+    <navPoint id="toc685" playOrder="685"><navLabel><text>Ecclésiaste 5</text></navLabel><content src="21_5.xhtml" /></navPoint>
+    <navPoint id="toc686" playOrder="686"><navLabel><text>Ecclésiaste 6</text></navLabel><content src="21_6.xhtml" /></navPoint>
+    <navPoint id="toc687" playOrder="687"><navLabel><text>Ecclésiaste 7</text></navLabel><content src="21_7.xhtml" /></navPoint>
+    <navPoint id="toc688" playOrder="688"><navLabel><text>Ecclésiaste 8</text></navLabel><content src="21_8.xhtml" /></navPoint>
+    <navPoint id="toc689" playOrder="689"><navLabel><text>Ecclésiaste 9</text></navLabel><content src="21_9.xhtml" /></navPoint>
+    <navPoint id="toc690" playOrder="690"><navLabel><text>Ecclésiaste 10</text></navLabel><content src="21_10.xhtml" /></navPoint>
+    <navPoint id="toc691" playOrder="691"><navLabel><text>Ecclésiaste 11</text></navLabel><content src="21_11.xhtml" /></navPoint>
+    <navPoint id="toc692" playOrder="692"><navLabel><text>Ecclésiaste 12</text></navLabel><content src="21_12.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc693" playOrder="693"><navLabel><text>Cantique</text></navLabel><content src="22_1.xhtml" />
+    <navPoint id="toc694" playOrder="694"><navLabel><text>Cantique 1</text></navLabel><content src="22_1.xhtml" /></navPoint>
+    <navPoint id="toc695" playOrder="695"><navLabel><text>Cantique 2</text></navLabel><content src="22_2.xhtml" /></navPoint>
+    <navPoint id="toc696" playOrder="696"><navLabel><text>Cantique 3</text></navLabel><content src="22_3.xhtml" /></navPoint>
+    <navPoint id="toc697" playOrder="697"><navLabel><text>Cantique 4</text></navLabel><content src="22_4.xhtml" /></navPoint>
+    <navPoint id="toc698" playOrder="698"><navLabel><text>Cantique 5</text></navLabel><content src="22_5.xhtml" /></navPoint>
+    <navPoint id="toc699" playOrder="699"><navLabel><text>Cantique 6</text></navLabel><content src="22_6.xhtml" /></navPoint>
+    <navPoint id="toc700" playOrder="700"><navLabel><text>Cantique 7</text></navLabel><content src="22_7.xhtml" /></navPoint>
+    <navPoint id="toc701" playOrder="701"><navLabel><text>Cantique 8</text></navLabel><content src="22_8.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc702" playOrder="702"><navLabel><text>Esaïe</text></navLabel><content src="23_1.xhtml" />
+    <navPoint id="toc703" playOrder="703"><navLabel><text>Esaïe 1</text></navLabel><content src="23_1.xhtml" /></navPoint>
+    <navPoint id="toc704" playOrder="704"><navLabel><text>Esaïe 2</text></navLabel><content src="23_2.xhtml" /></navPoint>
+    <navPoint id="toc705" playOrder="705"><navLabel><text>Esaïe 3</text></navLabel><content src="23_3.xhtml" /></navPoint>
+    <navPoint id="toc706" playOrder="706"><navLabel><text>Esaïe 4</text></navLabel><content src="23_4.xhtml" /></navPoint>
+    <navPoint id="toc707" playOrder="707"><navLabel><text>Esaïe 5</text></navLabel><content src="23_5.xhtml" /></navPoint>
+    <navPoint id="toc708" playOrder="708"><navLabel><text>Esaïe 6</text></navLabel><content src="23_6.xhtml" /></navPoint>
+    <navPoint id="toc709" playOrder="709"><navLabel><text>Esaïe 7</text></navLabel><content src="23_7.xhtml" /></navPoint>
+    <navPoint id="toc710" playOrder="710"><navLabel><text>Esaïe 8</text></navLabel><content src="23_8.xhtml" /></navPoint>
+    <navPoint id="toc711" playOrder="711"><navLabel><text>Esaïe 9</text></navLabel><content src="23_9.xhtml" /></navPoint>
+    <navPoint id="toc712" playOrder="712"><navLabel><text>Esaïe 10</text></navLabel><content src="23_10.xhtml" /></navPoint>
+    <navPoint id="toc713" playOrder="713"><navLabel><text>Esaïe 11</text></navLabel><content src="23_11.xhtml" /></navPoint>
+    <navPoint id="toc714" playOrder="714"><navLabel><text>Esaïe 12</text></navLabel><content src="23_12.xhtml" /></navPoint>
+    <navPoint id="toc715" playOrder="715"><navLabel><text>Esaïe 13</text></navLabel><content src="23_13.xhtml" /></navPoint>
+    <navPoint id="toc716" playOrder="716"><navLabel><text>Esaïe 14</text></navLabel><content src="23_14.xhtml" /></navPoint>
+    <navPoint id="toc717" playOrder="717"><navLabel><text>Esaïe 15</text></navLabel><content src="23_15.xhtml" /></navPoint>
+    <navPoint id="toc718" playOrder="718"><navLabel><text>Esaïe 16</text></navLabel><content src="23_16.xhtml" /></navPoint>
+    <navPoint id="toc719" playOrder="719"><navLabel><text>Esaïe 17</text></navLabel><content src="23_17.xhtml" /></navPoint>
+    <navPoint id="toc720" playOrder="720"><navLabel><text>Esaïe 18</text></navLabel><content src="23_18.xhtml" /></navPoint>
+    <navPoint id="toc721" playOrder="721"><navLabel><text>Esaïe 19</text></navLabel><content src="23_19.xhtml" /></navPoint>
+    <navPoint id="toc722" playOrder="722"><navLabel><text>Esaïe 20</text></navLabel><content src="23_20.xhtml" /></navPoint>
+    <navPoint id="toc723" playOrder="723"><navLabel><text>Esaïe 21</text></navLabel><content src="23_21.xhtml" /></navPoint>
+    <navPoint id="toc724" playOrder="724"><navLabel><text>Esaïe 22</text></navLabel><content src="23_22.xhtml" /></navPoint>
+    <navPoint id="toc725" playOrder="725"><navLabel><text>Esaïe 23</text></navLabel><content src="23_23.xhtml" /></navPoint>
+    <navPoint id="toc726" playOrder="726"><navLabel><text>Esaïe 24</text></navLabel><content src="23_24.xhtml" /></navPoint>
+    <navPoint id="toc727" playOrder="727"><navLabel><text>Esaïe 25</text></navLabel><content src="23_25.xhtml" /></navPoint>
+    <navPoint id="toc728" playOrder="728"><navLabel><text>Esaïe 26</text></navLabel><content src="23_26.xhtml" /></navPoint>
+    <navPoint id="toc729" playOrder="729"><navLabel><text>Esaïe 27</text></navLabel><content src="23_27.xhtml" /></navPoint>
+    <navPoint id="toc730" playOrder="730"><navLabel><text>Esaïe 28</text></navLabel><content src="23_28.xhtml" /></navPoint>
+    <navPoint id="toc731" playOrder="731"><navLabel><text>Esaïe 29</text></navLabel><content src="23_29.xhtml" /></navPoint>
+    <navPoint id="toc732" playOrder="732"><navLabel><text>Esaïe 30</text></navLabel><content src="23_30.xhtml" /></navPoint>
+    <navPoint id="toc733" playOrder="733"><navLabel><text>Esaïe 31</text></navLabel><content src="23_31.xhtml" /></navPoint>
+    <navPoint id="toc734" playOrder="734"><navLabel><text>Esaïe 32</text></navLabel><content src="23_32.xhtml" /></navPoint>
+    <navPoint id="toc735" playOrder="735"><navLabel><text>Esaïe 33</text></navLabel><content src="23_33.xhtml" /></navPoint>
+    <navPoint id="toc736" playOrder="736"><navLabel><text>Esaïe 34</text></navLabel><content src="23_34.xhtml" /></navPoint>
+    <navPoint id="toc737" playOrder="737"><navLabel><text>Esaïe 35</text></navLabel><content src="23_35.xhtml" /></navPoint>
+    <navPoint id="toc738" playOrder="738"><navLabel><text>Esaïe 36</text></navLabel><content src="23_36.xhtml" /></navPoint>
+    <navPoint id="toc739" playOrder="739"><navLabel><text>Esaïe 37</text></navLabel><content src="23_37.xhtml" /></navPoint>
+    <navPoint id="toc740" playOrder="740"><navLabel><text>Esaïe 38</text></navLabel><content src="23_38.xhtml" /></navPoint>
+    <navPoint id="toc741" playOrder="741"><navLabel><text>Esaïe 39</text></navLabel><content src="23_39.xhtml" /></navPoint>
+    <navPoint id="toc742" playOrder="742"><navLabel><text>Esaïe 40</text></navLabel><content src="23_40.xhtml" /></navPoint>
+    <navPoint id="toc743" playOrder="743"><navLabel><text>Esaïe 41</text></navLabel><content src="23_41.xhtml" /></navPoint>
+    <navPoint id="toc744" playOrder="744"><navLabel><text>Esaïe 42</text></navLabel><content src="23_42.xhtml" /></navPoint>
+    <navPoint id="toc745" playOrder="745"><navLabel><text>Esaïe 43</text></navLabel><content src="23_43.xhtml" /></navPoint>
+    <navPoint id="toc746" playOrder="746"><navLabel><text>Esaïe 44</text></navLabel><content src="23_44.xhtml" /></navPoint>
+    <navPoint id="toc747" playOrder="747"><navLabel><text>Esaïe 45</text></navLabel><content src="23_45.xhtml" /></navPoint>
+    <navPoint id="toc748" playOrder="748"><navLabel><text>Esaïe 46</text></navLabel><content src="23_46.xhtml" /></navPoint>
+    <navPoint id="toc749" playOrder="749"><navLabel><text>Esaïe 47</text></navLabel><content src="23_47.xhtml" /></navPoint>
+    <navPoint id="toc750" playOrder="750"><navLabel><text>Esaïe 48</text></navLabel><content src="23_48.xhtml" /></navPoint>
+    <navPoint id="toc751" playOrder="751"><navLabel><text>Esaïe 49</text></navLabel><content src="23_49.xhtml" /></navPoint>
+    <navPoint id="toc752" playOrder="752"><navLabel><text>Esaïe 50</text></navLabel><content src="23_50.xhtml" /></navPoint>
+    <navPoint id="toc753" playOrder="753"><navLabel><text>Esaïe 51</text></navLabel><content src="23_51.xhtml" /></navPoint>
+    <navPoint id="toc754" playOrder="754"><navLabel><text>Esaïe 52</text></navLabel><content src="23_52.xhtml" /></navPoint>
+    <navPoint id="toc755" playOrder="755"><navLabel><text>Esaïe 53</text></navLabel><content src="23_53.xhtml" /></navPoint>
+    <navPoint id="toc756" playOrder="756"><navLabel><text>Esaïe 54</text></navLabel><content src="23_54.xhtml" /></navPoint>
+    <navPoint id="toc757" playOrder="757"><navLabel><text>Esaïe 55</text></navLabel><content src="23_55.xhtml" /></navPoint>
+    <navPoint id="toc758" playOrder="758"><navLabel><text>Esaïe 56</text></navLabel><content src="23_56.xhtml" /></navPoint>
+    <navPoint id="toc759" playOrder="759"><navLabel><text>Esaïe 57</text></navLabel><content src="23_57.xhtml" /></navPoint>
+    <navPoint id="toc760" playOrder="760"><navLabel><text>Esaïe 58</text></navLabel><content src="23_58.xhtml" /></navPoint>
+    <navPoint id="toc761" playOrder="761"><navLabel><text>Esaïe 59</text></navLabel><content src="23_59.xhtml" /></navPoint>
+    <navPoint id="toc762" playOrder="762"><navLabel><text>Esaïe 60</text></navLabel><content src="23_60.xhtml" /></navPoint>
+    <navPoint id="toc763" playOrder="763"><navLabel><text>Esaïe 61</text></navLabel><content src="23_61.xhtml" /></navPoint>
+    <navPoint id="toc764" playOrder="764"><navLabel><text>Esaïe 62</text></navLabel><content src="23_62.xhtml" /></navPoint>
+    <navPoint id="toc765" playOrder="765"><navLabel><text>Esaïe 63</text></navLabel><content src="23_63.xhtml" /></navPoint>
+    <navPoint id="toc766" playOrder="766"><navLabel><text>Esaïe 64</text></navLabel><content src="23_64.xhtml" /></navPoint>
+    <navPoint id="toc767" playOrder="767"><navLabel><text>Esaïe 65</text></navLabel><content src="23_65.xhtml" /></navPoint>
+    <navPoint id="toc768" playOrder="768"><navLabel><text>Esaïe 66</text></navLabel><content src="23_66.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc769" playOrder="769"><navLabel><text>Jérémie</text></navLabel><content src="24_1.xhtml" />
+    <navPoint id="toc770" playOrder="770"><navLabel><text>Jérémie 1</text></navLabel><content src="24_1.xhtml" /></navPoint>
+    <navPoint id="toc771" playOrder="771"><navLabel><text>Jérémie 2</text></navLabel><content src="24_2.xhtml" /></navPoint>
+    <navPoint id="toc772" playOrder="772"><navLabel><text>Jérémie 3</text></navLabel><content src="24_3.xhtml" /></navPoint>
+    <navPoint id="toc773" playOrder="773"><navLabel><text>Jérémie 4</text></navLabel><content src="24_4.xhtml" /></navPoint>
+    <navPoint id="toc774" playOrder="774"><navLabel><text>Jérémie 5</text></navLabel><content src="24_5.xhtml" /></navPoint>
+    <navPoint id="toc775" playOrder="775"><navLabel><text>Jérémie 6</text></navLabel><content src="24_6.xhtml" /></navPoint>
+    <navPoint id="toc776" playOrder="776"><navLabel><text>Jérémie 7</text></navLabel><content src="24_7.xhtml" /></navPoint>
+    <navPoint id="toc777" playOrder="777"><navLabel><text>Jérémie 8</text></navLabel><content src="24_8.xhtml" /></navPoint>
+    <navPoint id="toc778" playOrder="778"><navLabel><text>Jérémie 9</text></navLabel><content src="24_9.xhtml" /></navPoint>
+    <navPoint id="toc779" playOrder="779"><navLabel><text>Jérémie 10</text></navLabel><content src="24_10.xhtml" /></navPoint>
+    <navPoint id="toc780" playOrder="780"><navLabel><text>Jérémie 11</text></navLabel><content src="24_11.xhtml" /></navPoint>
+    <navPoint id="toc781" playOrder="781"><navLabel><text>Jérémie 12</text></navLabel><content src="24_12.xhtml" /></navPoint>
+    <navPoint id="toc782" playOrder="782"><navLabel><text>Jérémie 13</text></navLabel><content src="24_13.xhtml" /></navPoint>
+    <navPoint id="toc783" playOrder="783"><navLabel><text>Jérémie 14</text></navLabel><content src="24_14.xhtml" /></navPoint>
+    <navPoint id="toc784" playOrder="784"><navLabel><text>Jérémie 15</text></navLabel><content src="24_15.xhtml" /></navPoint>
+    <navPoint id="toc785" playOrder="785"><navLabel><text>Jérémie 16</text></navLabel><content src="24_16.xhtml" /></navPoint>
+    <navPoint id="toc786" playOrder="786"><navLabel><text>Jérémie 17</text></navLabel><content src="24_17.xhtml" /></navPoint>
+    <navPoint id="toc787" playOrder="787"><navLabel><text>Jérémie 18</text></navLabel><content src="24_18.xhtml" /></navPoint>
+    <navPoint id="toc788" playOrder="788"><navLabel><text>Jérémie 19</text></navLabel><content src="24_19.xhtml" /></navPoint>
+    <navPoint id="toc789" playOrder="789"><navLabel><text>Jérémie 20</text></navLabel><content src="24_20.xhtml" /></navPoint>
+    <navPoint id="toc790" playOrder="790"><navLabel><text>Jérémie 21</text></navLabel><content src="24_21.xhtml" /></navPoint>
+    <navPoint id="toc791" playOrder="791"><navLabel><text>Jérémie 22</text></navLabel><content src="24_22.xhtml" /></navPoint>
+    <navPoint id="toc792" playOrder="792"><navLabel><text>Jérémie 23</text></navLabel><content src="24_23.xhtml" /></navPoint>
+    <navPoint id="toc793" playOrder="793"><navLabel><text>Jérémie 24</text></navLabel><content src="24_24.xhtml" /></navPoint>
+    <navPoint id="toc794" playOrder="794"><navLabel><text>Jérémie 25</text></navLabel><content src="24_25.xhtml" /></navPoint>
+    <navPoint id="toc795" playOrder="795"><navLabel><text>Jérémie 26</text></navLabel><content src="24_26.xhtml" /></navPoint>
+    <navPoint id="toc796" playOrder="796"><navLabel><text>Jérémie 27</text></navLabel><content src="24_27.xhtml" /></navPoint>
+    <navPoint id="toc797" playOrder="797"><navLabel><text>Jérémie 28</text></navLabel><content src="24_28.xhtml" /></navPoint>
+    <navPoint id="toc798" playOrder="798"><navLabel><text>Jérémie 29</text></navLabel><content src="24_29.xhtml" /></navPoint>
+    <navPoint id="toc799" playOrder="799"><navLabel><text>Jérémie 30</text></navLabel><content src="24_30.xhtml" /></navPoint>
+    <navPoint id="toc800" playOrder="800"><navLabel><text>Jérémie 31</text></navLabel><content src="24_31.xhtml" /></navPoint>
+    <navPoint id="toc801" playOrder="801"><navLabel><text>Jérémie 32</text></navLabel><content src="24_32.xhtml" /></navPoint>
+    <navPoint id="toc802" playOrder="802"><navLabel><text>Jérémie 33</text></navLabel><content src="24_33.xhtml" /></navPoint>
+    <navPoint id="toc803" playOrder="803"><navLabel><text>Jérémie 34</text></navLabel><content src="24_34.xhtml" /></navPoint>
+    <navPoint id="toc804" playOrder="804"><navLabel><text>Jérémie 35</text></navLabel><content src="24_35.xhtml" /></navPoint>
+    <navPoint id="toc805" playOrder="805"><navLabel><text>Jérémie 36</text></navLabel><content src="24_36.xhtml" /></navPoint>
+    <navPoint id="toc806" playOrder="806"><navLabel><text>Jérémie 37</text></navLabel><content src="24_37.xhtml" /></navPoint>
+    <navPoint id="toc807" playOrder="807"><navLabel><text>Jérémie 38</text></navLabel><content src="24_38.xhtml" /></navPoint>
+    <navPoint id="toc808" playOrder="808"><navLabel><text>Jérémie 39</text></navLabel><content src="24_39.xhtml" /></navPoint>
+    <navPoint id="toc809" playOrder="809"><navLabel><text>Jérémie 40</text></navLabel><content src="24_40.xhtml" /></navPoint>
+    <navPoint id="toc810" playOrder="810"><navLabel><text>Jérémie 41</text></navLabel><content src="24_41.xhtml" /></navPoint>
+    <navPoint id="toc811" playOrder="811"><navLabel><text>Jérémie 42</text></navLabel><content src="24_42.xhtml" /></navPoint>
+    <navPoint id="toc812" playOrder="812"><navLabel><text>Jérémie 43</text></navLabel><content src="24_43.xhtml" /></navPoint>
+    <navPoint id="toc813" playOrder="813"><navLabel><text>Jérémie 44</text></navLabel><content src="24_44.xhtml" /></navPoint>
+    <navPoint id="toc814" playOrder="814"><navLabel><text>Jérémie 45</text></navLabel><content src="24_45.xhtml" /></navPoint>
+    <navPoint id="toc815" playOrder="815"><navLabel><text>Jérémie 46</text></navLabel><content src="24_46.xhtml" /></navPoint>
+    <navPoint id="toc816" playOrder="816"><navLabel><text>Jérémie 47</text></navLabel><content src="24_47.xhtml" /></navPoint>
+    <navPoint id="toc817" playOrder="817"><navLabel><text>Jérémie 48</text></navLabel><content src="24_48.xhtml" /></navPoint>
+    <navPoint id="toc818" playOrder="818"><navLabel><text>Jérémie 49</text></navLabel><content src="24_49.xhtml" /></navPoint>
+    <navPoint id="toc819" playOrder="819"><navLabel><text>Jérémie 50</text></navLabel><content src="24_50.xhtml" /></navPoint>
+    <navPoint id="toc820" playOrder="820"><navLabel><text>Jérémie 51</text></navLabel><content src="24_51.xhtml" /></navPoint>
+    <navPoint id="toc821" playOrder="821"><navLabel><text>Jérémie 52</text></navLabel><content src="24_52.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc822" playOrder="822"><navLabel><text>Lamentations</text></navLabel><content src="25_1.xhtml" />
+    <navPoint id="toc823" playOrder="823"><navLabel><text>Lamentations 1</text></navLabel><content src="25_1.xhtml" /></navPoint>
+    <navPoint id="toc824" playOrder="824"><navLabel><text>Lamentations 2</text></navLabel><content src="25_2.xhtml" /></navPoint>
+    <navPoint id="toc825" playOrder="825"><navLabel><text>Lamentations 3</text></navLabel><content src="25_3.xhtml" /></navPoint>
+    <navPoint id="toc826" playOrder="826"><navLabel><text>Lamentations 4</text></navLabel><content src="25_4.xhtml" /></navPoint>
+    <navPoint id="toc827" playOrder="827"><navLabel><text>Lamentations 5</text></navLabel><content src="25_5.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc828" playOrder="828"><navLabel><text>Ezéchiel</text></navLabel><content src="26_1.xhtml" />
+    <navPoint id="toc829" playOrder="829"><navLabel><text>Ezéchiel 1</text></navLabel><content src="26_1.xhtml" /></navPoint>
+    <navPoint id="toc830" playOrder="830"><navLabel><text>Ezéchiel 2</text></navLabel><content src="26_2.xhtml" /></navPoint>
+    <navPoint id="toc831" playOrder="831"><navLabel><text>Ezéchiel 3</text></navLabel><content src="26_3.xhtml" /></navPoint>
+    <navPoint id="toc832" playOrder="832"><navLabel><text>Ezéchiel 4</text></navLabel><content src="26_4.xhtml" /></navPoint>
+    <navPoint id="toc833" playOrder="833"><navLabel><text>Ezéchiel 5</text></navLabel><content src="26_5.xhtml" /></navPoint>
+    <navPoint id="toc834" playOrder="834"><navLabel><text>Ezéchiel 6</text></navLabel><content src="26_6.xhtml" /></navPoint>
+    <navPoint id="toc835" playOrder="835"><navLabel><text>Ezéchiel 7</text></navLabel><content src="26_7.xhtml" /></navPoint>
+    <navPoint id="toc836" playOrder="836"><navLabel><text>Ezéchiel 8</text></navLabel><content src="26_8.xhtml" /></navPoint>
+    <navPoint id="toc837" playOrder="837"><navLabel><text>Ezéchiel 9</text></navLabel><content src="26_9.xhtml" /></navPoint>
+    <navPoint id="toc838" playOrder="838"><navLabel><text>Ezéchiel 10</text></navLabel><content src="26_10.xhtml" /></navPoint>
+    <navPoint id="toc839" playOrder="839"><navLabel><text>Ezéchiel 11</text></navLabel><content src="26_11.xhtml" /></navPoint>
+    <navPoint id="toc840" playOrder="840"><navLabel><text>Ezéchiel 12</text></navLabel><content src="26_12.xhtml" /></navPoint>
+    <navPoint id="toc841" playOrder="841"><navLabel><text>Ezéchiel 13</text></navLabel><content src="26_13.xhtml" /></navPoint>
+    <navPoint id="toc842" playOrder="842"><navLabel><text>Ezéchiel 14</text></navLabel><content src="26_14.xhtml" /></navPoint>
+    <navPoint id="toc843" playOrder="843"><navLabel><text>Ezéchiel 15</text></navLabel><content src="26_15.xhtml" /></navPoint>
+    <navPoint id="toc844" playOrder="844"><navLabel><text>Ezéchiel 16</text></navLabel><content src="26_16.xhtml" /></navPoint>
+    <navPoint id="toc845" playOrder="845"><navLabel><text>Ezéchiel 17</text></navLabel><content src="26_17.xhtml" /></navPoint>
+    <navPoint id="toc846" playOrder="846"><navLabel><text>Ezéchiel 18</text></navLabel><content src="26_18.xhtml" /></navPoint>
+    <navPoint id="toc847" playOrder="847"><navLabel><text>Ezéchiel 19</text></navLabel><content src="26_19.xhtml" /></navPoint>
+    <navPoint id="toc848" playOrder="848"><navLabel><text>Ezéchiel 20</text></navLabel><content src="26_20.xhtml" /></navPoint>
+    <navPoint id="toc849" playOrder="849"><navLabel><text>Ezéchiel 21</text></navLabel><content src="26_21.xhtml" /></navPoint>
+    <navPoint id="toc850" playOrder="850"><navLabel><text>Ezéchiel 22</text></navLabel><content src="26_22.xhtml" /></navPoint>
+    <navPoint id="toc851" playOrder="851"><navLabel><text>Ezéchiel 23</text></navLabel><content src="26_23.xhtml" /></navPoint>
+    <navPoint id="toc852" playOrder="852"><navLabel><text>Ezéchiel 24</text></navLabel><content src="26_24.xhtml" /></navPoint>
+    <navPoint id="toc853" playOrder="853"><navLabel><text>Ezéchiel 25</text></navLabel><content src="26_25.xhtml" /></navPoint>
+    <navPoint id="toc854" playOrder="854"><navLabel><text>Ezéchiel 26</text></navLabel><content src="26_26.xhtml" /></navPoint>
+    <navPoint id="toc855" playOrder="855"><navLabel><text>Ezéchiel 27</text></navLabel><content src="26_27.xhtml" /></navPoint>
+    <navPoint id="toc856" playOrder="856"><navLabel><text>Ezéchiel 28</text></navLabel><content src="26_28.xhtml" /></navPoint>
+    <navPoint id="toc857" playOrder="857"><navLabel><text>Ezéchiel 29</text></navLabel><content src="26_29.xhtml" /></navPoint>
+    <navPoint id="toc858" playOrder="858"><navLabel><text>Ezéchiel 30</text></navLabel><content src="26_30.xhtml" /></navPoint>
+    <navPoint id="toc859" playOrder="859"><navLabel><text>Ezéchiel 31</text></navLabel><content src="26_31.xhtml" /></navPoint>
+    <navPoint id="toc860" playOrder="860"><navLabel><text>Ezéchiel 32</text></navLabel><content src="26_32.xhtml" /></navPoint>
+    <navPoint id="toc861" playOrder="861"><navLabel><text>Ezéchiel 33</text></navLabel><content src="26_33.xhtml" /></navPoint>
+    <navPoint id="toc862" playOrder="862"><navLabel><text>Ezéchiel 34</text></navLabel><content src="26_34.xhtml" /></navPoint>
+    <navPoint id="toc863" playOrder="863"><navLabel><text>Ezéchiel 35</text></navLabel><content src="26_35.xhtml" /></navPoint>
+    <navPoint id="toc864" playOrder="864"><navLabel><text>Ezéchiel 36</text></navLabel><content src="26_36.xhtml" /></navPoint>
+    <navPoint id="toc865" playOrder="865"><navLabel><text>Ezéchiel 37</text></navLabel><content src="26_37.xhtml" /></navPoint>
+    <navPoint id="toc866" playOrder="866"><navLabel><text>Ezéchiel 38</text></navLabel><content src="26_38.xhtml" /></navPoint>
+    <navPoint id="toc867" playOrder="867"><navLabel><text>Ezéchiel 39</text></navLabel><content src="26_39.xhtml" /></navPoint>
+    <navPoint id="toc868" playOrder="868"><navLabel><text>Ezéchiel 40</text></navLabel><content src="26_40.xhtml" /></navPoint>
+    <navPoint id="toc869" playOrder="869"><navLabel><text>Ezéchiel 41</text></navLabel><content src="26_41.xhtml" /></navPoint>
+    <navPoint id="toc870" playOrder="870"><navLabel><text>Ezéchiel 42</text></navLabel><content src="26_42.xhtml" /></navPoint>
+    <navPoint id="toc871" playOrder="871"><navLabel><text>Ezéchiel 43</text></navLabel><content src="26_43.xhtml" /></navPoint>
+    <navPoint id="toc872" playOrder="872"><navLabel><text>Ezéchiel 44</text></navLabel><content src="26_44.xhtml" /></navPoint>
+    <navPoint id="toc873" playOrder="873"><navLabel><text>Ezéchiel 45</text></navLabel><content src="26_45.xhtml" /></navPoint>
+    <navPoint id="toc874" playOrder="874"><navLabel><text>Ezéchiel 46</text></navLabel><content src="26_46.xhtml" /></navPoint>
+    <navPoint id="toc875" playOrder="875"><navLabel><text>Ezéchiel 47</text></navLabel><content src="26_47.xhtml" /></navPoint>
+    <navPoint id="toc876" playOrder="876"><navLabel><text>Ezéchiel 48</text></navLabel><content src="26_48.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc877" playOrder="877"><navLabel><text>Daniel</text></navLabel><content src="27_1.xhtml" />
+    <navPoint id="toc878" playOrder="878"><navLabel><text>Daniel 1</text></navLabel><content src="27_1.xhtml" /></navPoint>
+    <navPoint id="toc879" playOrder="879"><navLabel><text>Daniel 2</text></navLabel><content src="27_2.xhtml" /></navPoint>
+    <navPoint id="toc880" playOrder="880"><navLabel><text>Daniel 3</text></navLabel><content src="27_3.xhtml" /></navPoint>
+    <navPoint id="toc881" playOrder="881"><navLabel><text>Daniel 4</text></navLabel><content src="27_4.xhtml" /></navPoint>
+    <navPoint id="toc882" playOrder="882"><navLabel><text>Daniel 5</text></navLabel><content src="27_5.xhtml" /></navPoint>
+    <navPoint id="toc883" playOrder="883"><navLabel><text>Daniel 6</text></navLabel><content src="27_6.xhtml" /></navPoint>
+    <navPoint id="toc884" playOrder="884"><navLabel><text>Daniel 7</text></navLabel><content src="27_7.xhtml" /></navPoint>
+    <navPoint id="toc885" playOrder="885"><navLabel><text>Daniel 8</text></navLabel><content src="27_8.xhtml" /></navPoint>
+    <navPoint id="toc886" playOrder="886"><navLabel><text>Daniel 9</text></navLabel><content src="27_9.xhtml" /></navPoint>
+    <navPoint id="toc887" playOrder="887"><navLabel><text>Daniel 10</text></navLabel><content src="27_10.xhtml" /></navPoint>
+    <navPoint id="toc888" playOrder="888"><navLabel><text>Daniel 11</text></navLabel><content src="27_11.xhtml" /></navPoint>
+    <navPoint id="toc889" playOrder="889"><navLabel><text>Daniel 12</text></navLabel><content src="27_12.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc890" playOrder="890"><navLabel><text>Osée</text></navLabel><content src="28_1.xhtml" />
+    <navPoint id="toc891" playOrder="891"><navLabel><text>Osée 1</text></navLabel><content src="28_1.xhtml" /></navPoint>
+    <navPoint id="toc892" playOrder="892"><navLabel><text>Osée 2</text></navLabel><content src="28_2.xhtml" /></navPoint>
+    <navPoint id="toc893" playOrder="893"><navLabel><text>Osée 3</text></navLabel><content src="28_3.xhtml" /></navPoint>
+    <navPoint id="toc894" playOrder="894"><navLabel><text>Osée 4</text></navLabel><content src="28_4.xhtml" /></navPoint>
+    <navPoint id="toc895" playOrder="895"><navLabel><text>Osée 5</text></navLabel><content src="28_5.xhtml" /></navPoint>
+    <navPoint id="toc896" playOrder="896"><navLabel><text>Osée 6</text></navLabel><content src="28_6.xhtml" /></navPoint>
+    <navPoint id="toc897" playOrder="897"><navLabel><text>Osée 7</text></navLabel><content src="28_7.xhtml" /></navPoint>
+    <navPoint id="toc898" playOrder="898"><navLabel><text>Osée 8</text></navLabel><content src="28_8.xhtml" /></navPoint>
+    <navPoint id="toc899" playOrder="899"><navLabel><text>Osée 9</text></navLabel><content src="28_9.xhtml" /></navPoint>
+    <navPoint id="toc900" playOrder="900"><navLabel><text>Osée 10</text></navLabel><content src="28_10.xhtml" /></navPoint>
+    <navPoint id="toc901" playOrder="901"><navLabel><text>Osée 11</text></navLabel><content src="28_11.xhtml" /></navPoint>
+    <navPoint id="toc902" playOrder="902"><navLabel><text>Osée 12</text></navLabel><content src="28_12.xhtml" /></navPoint>
+    <navPoint id="toc903" playOrder="903"><navLabel><text>Osée 13</text></navLabel><content src="28_13.xhtml" /></navPoint>
+    <navPoint id="toc904" playOrder="904"><navLabel><text>Osée 14</text></navLabel><content src="28_14.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc905" playOrder="905"><navLabel><text>Joël</text></navLabel><content src="29_1.xhtml" />
+    <navPoint id="toc906" playOrder="906"><navLabel><text>Joël 1</text></navLabel><content src="29_1.xhtml" /></navPoint>
+    <navPoint id="toc907" playOrder="907"><navLabel><text>Joël 2</text></navLabel><content src="29_2.xhtml" /></navPoint>
+    <navPoint id="toc908" playOrder="908"><navLabel><text>Joël 3</text></navLabel><content src="29_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc909" playOrder="909"><navLabel><text>Amos</text></navLabel><content src="30_1.xhtml" />
+    <navPoint id="toc910" playOrder="910"><navLabel><text>Amos 1</text></navLabel><content src="30_1.xhtml" /></navPoint>
+    <navPoint id="toc911" playOrder="911"><navLabel><text>Amos 2</text></navLabel><content src="30_2.xhtml" /></navPoint>
+    <navPoint id="toc912" playOrder="912"><navLabel><text>Amos 3</text></navLabel><content src="30_3.xhtml" /></navPoint>
+    <navPoint id="toc913" playOrder="913"><navLabel><text>Amos 4</text></navLabel><content src="30_4.xhtml" /></navPoint>
+    <navPoint id="toc914" playOrder="914"><navLabel><text>Amos 5</text></navLabel><content src="30_5.xhtml" /></navPoint>
+    <navPoint id="toc915" playOrder="915"><navLabel><text>Amos 6</text></navLabel><content src="30_6.xhtml" /></navPoint>
+    <navPoint id="toc916" playOrder="916"><navLabel><text>Amos 7</text></navLabel><content src="30_7.xhtml" /></navPoint>
+    <navPoint id="toc917" playOrder="917"><navLabel><text>Amos 8</text></navLabel><content src="30_8.xhtml" /></navPoint>
+    <navPoint id="toc918" playOrder="918"><navLabel><text>Amos 9</text></navLabel><content src="30_9.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc919" playOrder="919"><navLabel><text>Abdias</text></navLabel><content src="31_1.xhtml" />
+</navPoint>
+<navPoint id="toc920" playOrder="920"><navLabel><text>Jonas</text></navLabel><content src="32_1.xhtml" />
+    <navPoint id="toc921" playOrder="921"><navLabel><text>Jonas 1</text></navLabel><content src="32_1.xhtml" /></navPoint>
+    <navPoint id="toc922" playOrder="922"><navLabel><text>Jonas 2</text></navLabel><content src="32_2.xhtml" /></navPoint>
+    <navPoint id="toc923" playOrder="923"><navLabel><text>Jonas 3</text></navLabel><content src="32_3.xhtml" /></navPoint>
+    <navPoint id="toc924" playOrder="924"><navLabel><text>Jonas 4</text></navLabel><content src="32_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc925" playOrder="925"><navLabel><text>Michée</text></navLabel><content src="33_1.xhtml" />
+    <navPoint id="toc926" playOrder="926"><navLabel><text>Michée 1</text></navLabel><content src="33_1.xhtml" /></navPoint>
+    <navPoint id="toc927" playOrder="927"><navLabel><text>Michée 2</text></navLabel><content src="33_2.xhtml" /></navPoint>
+    <navPoint id="toc928" playOrder="928"><navLabel><text>Michée 3</text></navLabel><content src="33_3.xhtml" /></navPoint>
+    <navPoint id="toc929" playOrder="929"><navLabel><text>Michée 4</text></navLabel><content src="33_4.xhtml" /></navPoint>
+    <navPoint id="toc930" playOrder="930"><navLabel><text>Michée 5</text></navLabel><content src="33_5.xhtml" /></navPoint>
+    <navPoint id="toc931" playOrder="931"><navLabel><text>Michée 6</text></navLabel><content src="33_6.xhtml" /></navPoint>
+    <navPoint id="toc932" playOrder="932"><navLabel><text>Michée 7</text></navLabel><content src="33_7.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc933" playOrder="933"><navLabel><text>Nahum</text></navLabel><content src="34_1.xhtml" />
+    <navPoint id="toc934" playOrder="934"><navLabel><text>Nahum 1</text></navLabel><content src="34_1.xhtml" /></navPoint>
+    <navPoint id="toc935" playOrder="935"><navLabel><text>Nahum 2</text></navLabel><content src="34_2.xhtml" /></navPoint>
+    <navPoint id="toc936" playOrder="936"><navLabel><text>Nahum 3</text></navLabel><content src="34_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc937" playOrder="937"><navLabel><text>Habacuc</text></navLabel><content src="35_1.xhtml" />
+    <navPoint id="toc938" playOrder="938"><navLabel><text>Habacuc 1</text></navLabel><content src="35_1.xhtml" /></navPoint>
+    <navPoint id="toc939" playOrder="939"><navLabel><text>Habacuc 2</text></navLabel><content src="35_2.xhtml" /></navPoint>
+    <navPoint id="toc940" playOrder="940"><navLabel><text>Habacuc 3</text></navLabel><content src="35_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc941" playOrder="941"><navLabel><text>Sophonie</text></navLabel><content src="36_1.xhtml" />
+    <navPoint id="toc942" playOrder="942"><navLabel><text>Sophonie 1</text></navLabel><content src="36_1.xhtml" /></navPoint>
+    <navPoint id="toc943" playOrder="943"><navLabel><text>Sophonie 2</text></navLabel><content src="36_2.xhtml" /></navPoint>
+    <navPoint id="toc944" playOrder="944"><navLabel><text>Sophonie 3</text></navLabel><content src="36_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc945" playOrder="945"><navLabel><text>Aggée</text></navLabel><content src="37_1.xhtml" />
+    <navPoint id="toc946" playOrder="946"><navLabel><text>Aggée 1</text></navLabel><content src="37_1.xhtml" /></navPoint>
+    <navPoint id="toc947" playOrder="947"><navLabel><text>Aggée 2</text></navLabel><content src="37_2.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc948" playOrder="948"><navLabel><text>Zacharie</text></navLabel><content src="38_1.xhtml" />
+    <navPoint id="toc949" playOrder="949"><navLabel><text>Zacharie 1</text></navLabel><content src="38_1.xhtml" /></navPoint>
+    <navPoint id="toc950" playOrder="950"><navLabel><text>Zacharie 2</text></navLabel><content src="38_2.xhtml" /></navPoint>
+    <navPoint id="toc951" playOrder="951"><navLabel><text>Zacharie 3</text></navLabel><content src="38_3.xhtml" /></navPoint>
+    <navPoint id="toc952" playOrder="952"><navLabel><text>Zacharie 4</text></navLabel><content src="38_4.xhtml" /></navPoint>
+    <navPoint id="toc953" playOrder="953"><navLabel><text>Zacharie 5</text></navLabel><content src="38_5.xhtml" /></navPoint>
+    <navPoint id="toc954" playOrder="954"><navLabel><text>Zacharie 6</text></navLabel><content src="38_6.xhtml" /></navPoint>
+    <navPoint id="toc955" playOrder="955"><navLabel><text>Zacharie 7</text></navLabel><content src="38_7.xhtml" /></navPoint>
+    <navPoint id="toc956" playOrder="956"><navLabel><text>Zacharie 8</text></navLabel><content src="38_8.xhtml" /></navPoint>
+    <navPoint id="toc957" playOrder="957"><navLabel><text>Zacharie 9</text></navLabel><content src="38_9.xhtml" /></navPoint>
+    <navPoint id="toc958" playOrder="958"><navLabel><text>Zacharie 10</text></navLabel><content src="38_10.xhtml" /></navPoint>
+    <navPoint id="toc959" playOrder="959"><navLabel><text>Zacharie 11</text></navLabel><content src="38_11.xhtml" /></navPoint>
+    <navPoint id="toc960" playOrder="960"><navLabel><text>Zacharie 12</text></navLabel><content src="38_12.xhtml" /></navPoint>
+    <navPoint id="toc961" playOrder="961"><navLabel><text>Zacharie 13</text></navLabel><content src="38_13.xhtml" /></navPoint>
+    <navPoint id="toc962" playOrder="962"><navLabel><text>Zacharie 14</text></navLabel><content src="38_14.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc963" playOrder="963"><navLabel><text>Malachie</text></navLabel><content src="39_1.xhtml" />
+    <navPoint id="toc964" playOrder="964"><navLabel><text>Malachie 1</text></navLabel><content src="39_1.xhtml" /></navPoint>
+    <navPoint id="toc965" playOrder="965"><navLabel><text>Malachie 2</text></navLabel><content src="39_2.xhtml" /></navPoint>
+    <navPoint id="toc966" playOrder="966"><navLabel><text>Malachie 3</text></navLabel><content src="39_3.xhtml" /></navPoint>
+    <navPoint id="toc967" playOrder="967"><navLabel><text>Malachie 4</text></navLabel><content src="39_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc968" playOrder="968"><navLabel><text>Matthieu</text></navLabel><content src="40_1.xhtml" />
+    <navPoint id="toc969" playOrder="969"><navLabel><text>Matthieu 1</text></navLabel><content src="40_1.xhtml" /></navPoint>
+    <navPoint id="toc970" playOrder="970"><navLabel><text>Matthieu 2</text></navLabel><content src="40_2.xhtml" /></navPoint>
+    <navPoint id="toc971" playOrder="971"><navLabel><text>Matthieu 3</text></navLabel><content src="40_3.xhtml" /></navPoint>
+    <navPoint id="toc972" playOrder="972"><navLabel><text>Matthieu 4</text></navLabel><content src="40_4.xhtml" /></navPoint>
+    <navPoint id="toc973" playOrder="973"><navLabel><text>Matthieu 5</text></navLabel><content src="40_5.xhtml" /></navPoint>
+    <navPoint id="toc974" playOrder="974"><navLabel><text>Matthieu 6</text></navLabel><content src="40_6.xhtml" /></navPoint>
+    <navPoint id="toc975" playOrder="975"><navLabel><text>Matthieu 7</text></navLabel><content src="40_7.xhtml" /></navPoint>
+    <navPoint id="toc976" playOrder="976"><navLabel><text>Matthieu 8</text></navLabel><content src="40_8.xhtml" /></navPoint>
+    <navPoint id="toc977" playOrder="977"><navLabel><text>Matthieu 9</text></navLabel><content src="40_9.xhtml" /></navPoint>
+    <navPoint id="toc978" playOrder="978"><navLabel><text>Matthieu 10</text></navLabel><content src="40_10.xhtml" /></navPoint>
+    <navPoint id="toc979" playOrder="979"><navLabel><text>Matthieu 11</text></navLabel><content src="40_11.xhtml" /></navPoint>
+    <navPoint id="toc980" playOrder="980"><navLabel><text>Matthieu 12</text></navLabel><content src="40_12.xhtml" /></navPoint>
+    <navPoint id="toc981" playOrder="981"><navLabel><text>Matthieu 13</text></navLabel><content src="40_13.xhtml" /></navPoint>
+    <navPoint id="toc982" playOrder="982"><navLabel><text>Matthieu 14</text></navLabel><content src="40_14.xhtml" /></navPoint>
+    <navPoint id="toc983" playOrder="983"><navLabel><text>Matthieu 15</text></navLabel><content src="40_15.xhtml" /></navPoint>
+    <navPoint id="toc984" playOrder="984"><navLabel><text>Matthieu 16</text></navLabel><content src="40_16.xhtml" /></navPoint>
+    <navPoint id="toc985" playOrder="985"><navLabel><text>Matthieu 17</text></navLabel><content src="40_17.xhtml" /></navPoint>
+    <navPoint id="toc986" playOrder="986"><navLabel><text>Matthieu 18</text></navLabel><content src="40_18.xhtml" /></navPoint>
+    <navPoint id="toc987" playOrder="987"><navLabel><text>Matthieu 19</text></navLabel><content src="40_19.xhtml" /></navPoint>
+    <navPoint id="toc988" playOrder="988"><navLabel><text>Matthieu 20</text></navLabel><content src="40_20.xhtml" /></navPoint>
+    <navPoint id="toc989" playOrder="989"><navLabel><text>Matthieu 21</text></navLabel><content src="40_21.xhtml" /></navPoint>
+    <navPoint id="toc990" playOrder="990"><navLabel><text>Matthieu 22</text></navLabel><content src="40_22.xhtml" /></navPoint>
+    <navPoint id="toc991" playOrder="991"><navLabel><text>Matthieu 23</text></navLabel><content src="40_23.xhtml" /></navPoint>
+    <navPoint id="toc992" playOrder="992"><navLabel><text>Matthieu 24</text></navLabel><content src="40_24.xhtml" /></navPoint>
+    <navPoint id="toc993" playOrder="993"><navLabel><text>Matthieu 25</text></navLabel><content src="40_25.xhtml" /></navPoint>
+    <navPoint id="toc994" playOrder="994"><navLabel><text>Matthieu 26</text></navLabel><content src="40_26.xhtml" /></navPoint>
+    <navPoint id="toc995" playOrder="995"><navLabel><text>Matthieu 27</text></navLabel><content src="40_27.xhtml" /></navPoint>
+    <navPoint id="toc996" playOrder="996"><navLabel><text>Matthieu 28</text></navLabel><content src="40_28.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc997" playOrder="997"><navLabel><text>Marc</text></navLabel><content src="41_1.xhtml" />
+    <navPoint id="toc998" playOrder="998"><navLabel><text>Marc 1</text></navLabel><content src="41_1.xhtml" /></navPoint>
+    <navPoint id="toc999" playOrder="999"><navLabel><text>Marc 2</text></navLabel><content src="41_2.xhtml" /></navPoint>
+    <navPoint id="toc1000" playOrder="1000"><navLabel><text>Marc 3</text></navLabel><content src="41_3.xhtml" /></navPoint>
+    <navPoint id="toc1001" playOrder="1001"><navLabel><text>Marc 4</text></navLabel><content src="41_4.xhtml" /></navPoint>
+    <navPoint id="toc1002" playOrder="1002"><navLabel><text>Marc 5</text></navLabel><content src="41_5.xhtml" /></navPoint>
+    <navPoint id="toc1003" playOrder="1003"><navLabel><text>Marc 6</text></navLabel><content src="41_6.xhtml" /></navPoint>
+    <navPoint id="toc1004" playOrder="1004"><navLabel><text>Marc 7</text></navLabel><content src="41_7.xhtml" /></navPoint>
+    <navPoint id="toc1005" playOrder="1005"><navLabel><text>Marc 8</text></navLabel><content src="41_8.xhtml" /></navPoint>
+    <navPoint id="toc1006" playOrder="1006"><navLabel><text>Marc 9</text></navLabel><content src="41_9.xhtml" /></navPoint>
+    <navPoint id="toc1007" playOrder="1007"><navLabel><text>Marc 10</text></navLabel><content src="41_10.xhtml" /></navPoint>
+    <navPoint id="toc1008" playOrder="1008"><navLabel><text>Marc 11</text></navLabel><content src="41_11.xhtml" /></navPoint>
+    <navPoint id="toc1009" playOrder="1009"><navLabel><text>Marc 12</text></navLabel><content src="41_12.xhtml" /></navPoint>
+    <navPoint id="toc1010" playOrder="1010"><navLabel><text>Marc 13</text></navLabel><content src="41_13.xhtml" /></navPoint>
+    <navPoint id="toc1011" playOrder="1011"><navLabel><text>Marc 14</text></navLabel><content src="41_14.xhtml" /></navPoint>
+    <navPoint id="toc1012" playOrder="1012"><navLabel><text>Marc 15</text></navLabel><content src="41_15.xhtml" /></navPoint>
+    <navPoint id="toc1013" playOrder="1013"><navLabel><text>Marc 16</text></navLabel><content src="41_16.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1014" playOrder="1014"><navLabel><text>Luc</text></navLabel><content src="42_1.xhtml" />
+    <navPoint id="toc1015" playOrder="1015"><navLabel><text>Luc 1</text></navLabel><content src="42_1.xhtml" /></navPoint>
+    <navPoint id="toc1016" playOrder="1016"><navLabel><text>Luc 2</text></navLabel><content src="42_2.xhtml" /></navPoint>
+    <navPoint id="toc1017" playOrder="1017"><navLabel><text>Luc 3</text></navLabel><content src="42_3.xhtml" /></navPoint>
+    <navPoint id="toc1018" playOrder="1018"><navLabel><text>Luc 4</text></navLabel><content src="42_4.xhtml" /></navPoint>
+    <navPoint id="toc1019" playOrder="1019"><navLabel><text>Luc 5</text></navLabel><content src="42_5.xhtml" /></navPoint>
+    <navPoint id="toc1020" playOrder="1020"><navLabel><text>Luc 6</text></navLabel><content src="42_6.xhtml" /></navPoint>
+    <navPoint id="toc1021" playOrder="1021"><navLabel><text>Luc 7</text></navLabel><content src="42_7.xhtml" /></navPoint>
+    <navPoint id="toc1022" playOrder="1022"><navLabel><text>Luc 8</text></navLabel><content src="42_8.xhtml" /></navPoint>
+    <navPoint id="toc1023" playOrder="1023"><navLabel><text>Luc 9</text></navLabel><content src="42_9.xhtml" /></navPoint>
+    <navPoint id="toc1024" playOrder="1024"><navLabel><text>Luc 10</text></navLabel><content src="42_10.xhtml" /></navPoint>
+    <navPoint id="toc1025" playOrder="1025"><navLabel><text>Luc 11</text></navLabel><content src="42_11.xhtml" /></navPoint>
+    <navPoint id="toc1026" playOrder="1026"><navLabel><text>Luc 12</text></navLabel><content src="42_12.xhtml" /></navPoint>
+    <navPoint id="toc1027" playOrder="1027"><navLabel><text>Luc 13</text></navLabel><content src="42_13.xhtml" /></navPoint>
+    <navPoint id="toc1028" playOrder="1028"><navLabel><text>Luc 14</text></navLabel><content src="42_14.xhtml" /></navPoint>
+    <navPoint id="toc1029" playOrder="1029"><navLabel><text>Luc 15</text></navLabel><content src="42_15.xhtml" /></navPoint>
+    <navPoint id="toc1030" playOrder="1030"><navLabel><text>Luc 16</text></navLabel><content src="42_16.xhtml" /></navPoint>
+    <navPoint id="toc1031" playOrder="1031"><navLabel><text>Luc 17</text></navLabel><content src="42_17.xhtml" /></navPoint>
+    <navPoint id="toc1032" playOrder="1032"><navLabel><text>Luc 18</text></navLabel><content src="42_18.xhtml" /></navPoint>
+    <navPoint id="toc1033" playOrder="1033"><navLabel><text>Luc 19</text></navLabel><content src="42_19.xhtml" /></navPoint>
+    <navPoint id="toc1034" playOrder="1034"><navLabel><text>Luc 20</text></navLabel><content src="42_20.xhtml" /></navPoint>
+    <navPoint id="toc1035" playOrder="1035"><navLabel><text>Luc 21</text></navLabel><content src="42_21.xhtml" /></navPoint>
+    <navPoint id="toc1036" playOrder="1036"><navLabel><text>Luc 22</text></navLabel><content src="42_22.xhtml" /></navPoint>
+    <navPoint id="toc1037" playOrder="1037"><navLabel><text>Luc 23</text></navLabel><content src="42_23.xhtml" /></navPoint>
+    <navPoint id="toc1038" playOrder="1038"><navLabel><text>Luc 24</text></navLabel><content src="42_24.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1039" playOrder="1039"><navLabel><text>Jean</text></navLabel><content src="43_1.xhtml" />
+    <navPoint id="toc1040" playOrder="1040"><navLabel><text>Jean 1</text></navLabel><content src="43_1.xhtml" /></navPoint>
+    <navPoint id="toc1041" playOrder="1041"><navLabel><text>Jean 2</text></navLabel><content src="43_2.xhtml" /></navPoint>
+    <navPoint id="toc1042" playOrder="1042"><navLabel><text>Jean 3</text></navLabel><content src="43_3.xhtml" /></navPoint>
+    <navPoint id="toc1043" playOrder="1043"><navLabel><text>Jean 4</text></navLabel><content src="43_4.xhtml" /></navPoint>
+    <navPoint id="toc1044" playOrder="1044"><navLabel><text>Jean 5</text></navLabel><content src="43_5.xhtml" /></navPoint>
+    <navPoint id="toc1045" playOrder="1045"><navLabel><text>Jean 6</text></navLabel><content src="43_6.xhtml" /></navPoint>
+    <navPoint id="toc1046" playOrder="1046"><navLabel><text>Jean 7</text></navLabel><content src="43_7.xhtml" /></navPoint>
+    <navPoint id="toc1047" playOrder="1047"><navLabel><text>Jean 8</text></navLabel><content src="43_8.xhtml" /></navPoint>
+    <navPoint id="toc1048" playOrder="1048"><navLabel><text>Jean 9</text></navLabel><content src="43_9.xhtml" /></navPoint>
+    <navPoint id="toc1049" playOrder="1049"><navLabel><text>Jean 10</text></navLabel><content src="43_10.xhtml" /></navPoint>
+    <navPoint id="toc1050" playOrder="1050"><navLabel><text>Jean 11</text></navLabel><content src="43_11.xhtml" /></navPoint>
+    <navPoint id="toc1051" playOrder="1051"><navLabel><text>Jean 12</text></navLabel><content src="43_12.xhtml" /></navPoint>
+    <navPoint id="toc1052" playOrder="1052"><navLabel><text>Jean 13</text></navLabel><content src="43_13.xhtml" /></navPoint>
+    <navPoint id="toc1053" playOrder="1053"><navLabel><text>Jean 14</text></navLabel><content src="43_14.xhtml" /></navPoint>
+    <navPoint id="toc1054" playOrder="1054"><navLabel><text>Jean 15</text></navLabel><content src="43_15.xhtml" /></navPoint>
+    <navPoint id="toc1055" playOrder="1055"><navLabel><text>Jean 16</text></navLabel><content src="43_16.xhtml" /></navPoint>
+    <navPoint id="toc1056" playOrder="1056"><navLabel><text>Jean 17</text></navLabel><content src="43_17.xhtml" /></navPoint>
+    <navPoint id="toc1057" playOrder="1057"><navLabel><text>Jean 18</text></navLabel><content src="43_18.xhtml" /></navPoint>
+    <navPoint id="toc1058" playOrder="1058"><navLabel><text>Jean 19</text></navLabel><content src="43_19.xhtml" /></navPoint>
+    <navPoint id="toc1059" playOrder="1059"><navLabel><text>Jean 20</text></navLabel><content src="43_20.xhtml" /></navPoint>
+    <navPoint id="toc1060" playOrder="1060"><navLabel><text>Jean 21</text></navLabel><content src="43_21.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1061" playOrder="1061"><navLabel><text>Actes</text></navLabel><content src="44_1.xhtml" />
+    <navPoint id="toc1062" playOrder="1062"><navLabel><text>Actes 1</text></navLabel><content src="44_1.xhtml" /></navPoint>
+    <navPoint id="toc1063" playOrder="1063"><navLabel><text>Actes 2</text></navLabel><content src="44_2.xhtml" /></navPoint>
+    <navPoint id="toc1064" playOrder="1064"><navLabel><text>Actes 3</text></navLabel><content src="44_3.xhtml" /></navPoint>
+    <navPoint id="toc1065" playOrder="1065"><navLabel><text>Actes 4</text></navLabel><content src="44_4.xhtml" /></navPoint>
+    <navPoint id="toc1066" playOrder="1066"><navLabel><text>Actes 5</text></navLabel><content src="44_5.xhtml" /></navPoint>
+    <navPoint id="toc1067" playOrder="1067"><navLabel><text>Actes 6</text></navLabel><content src="44_6.xhtml" /></navPoint>
+    <navPoint id="toc1068" playOrder="1068"><navLabel><text>Actes 7</text></navLabel><content src="44_7.xhtml" /></navPoint>
+    <navPoint id="toc1069" playOrder="1069"><navLabel><text>Actes 8</text></navLabel><content src="44_8.xhtml" /></navPoint>
+    <navPoint id="toc1070" playOrder="1070"><navLabel><text>Actes 9</text></navLabel><content src="44_9.xhtml" /></navPoint>
+    <navPoint id="toc1071" playOrder="1071"><navLabel><text>Actes 10</text></navLabel><content src="44_10.xhtml" /></navPoint>
+    <navPoint id="toc1072" playOrder="1072"><navLabel><text>Actes 11</text></navLabel><content src="44_11.xhtml" /></navPoint>
+    <navPoint id="toc1073" playOrder="1073"><navLabel><text>Actes 12</text></navLabel><content src="44_12.xhtml" /></navPoint>
+    <navPoint id="toc1074" playOrder="1074"><navLabel><text>Actes 13</text></navLabel><content src="44_13.xhtml" /></navPoint>
+    <navPoint id="toc1075" playOrder="1075"><navLabel><text>Actes 14</text></navLabel><content src="44_14.xhtml" /></navPoint>
+    <navPoint id="toc1076" playOrder="1076"><navLabel><text>Actes 15</text></navLabel><content src="44_15.xhtml" /></navPoint>
+    <navPoint id="toc1077" playOrder="1077"><navLabel><text>Actes 16</text></navLabel><content src="44_16.xhtml" /></navPoint>
+    <navPoint id="toc1078" playOrder="1078"><navLabel><text>Actes 17</text></navLabel><content src="44_17.xhtml" /></navPoint>
+    <navPoint id="toc1079" playOrder="1079"><navLabel><text>Actes 18</text></navLabel><content src="44_18.xhtml" /></navPoint>
+    <navPoint id="toc1080" playOrder="1080"><navLabel><text>Actes 19</text></navLabel><content src="44_19.xhtml" /></navPoint>
+    <navPoint id="toc1081" playOrder="1081"><navLabel><text>Actes 20</text></navLabel><content src="44_20.xhtml" /></navPoint>
+    <navPoint id="toc1082" playOrder="1082"><navLabel><text>Actes 21</text></navLabel><content src="44_21.xhtml" /></navPoint>
+    <navPoint id="toc1083" playOrder="1083"><navLabel><text>Actes 22</text></navLabel><content src="44_22.xhtml" /></navPoint>
+    <navPoint id="toc1084" playOrder="1084"><navLabel><text>Actes 23</text></navLabel><content src="44_23.xhtml" /></navPoint>
+    <navPoint id="toc1085" playOrder="1085"><navLabel><text>Actes 24</text></navLabel><content src="44_24.xhtml" /></navPoint>
+    <navPoint id="toc1086" playOrder="1086"><navLabel><text>Actes 25</text></navLabel><content src="44_25.xhtml" /></navPoint>
+    <navPoint id="toc1087" playOrder="1087"><navLabel><text>Actes 26</text></navLabel><content src="44_26.xhtml" /></navPoint>
+    <navPoint id="toc1088" playOrder="1088"><navLabel><text>Actes 27</text></navLabel><content src="44_27.xhtml" /></navPoint>
+    <navPoint id="toc1089" playOrder="1089"><navLabel><text>Actes 28</text></navLabel><content src="44_28.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1090" playOrder="1090"><navLabel><text>Romains</text></navLabel><content src="45_1.xhtml" />
+    <navPoint id="toc1091" playOrder="1091"><navLabel><text>Romains 1</text></navLabel><content src="45_1.xhtml" /></navPoint>
+    <navPoint id="toc1092" playOrder="1092"><navLabel><text>Romains 2</text></navLabel><content src="45_2.xhtml" /></navPoint>
+    <navPoint id="toc1093" playOrder="1093"><navLabel><text>Romains 3</text></navLabel><content src="45_3.xhtml" /></navPoint>
+    <navPoint id="toc1094" playOrder="1094"><navLabel><text>Romains 4</text></navLabel><content src="45_4.xhtml" /></navPoint>
+    <navPoint id="toc1095" playOrder="1095"><navLabel><text>Romains 5</text></navLabel><content src="45_5.xhtml" /></navPoint>
+    <navPoint id="toc1096" playOrder="1096"><navLabel><text>Romains 6</text></navLabel><content src="45_6.xhtml" /></navPoint>
+    <navPoint id="toc1097" playOrder="1097"><navLabel><text>Romains 7</text></navLabel><content src="45_7.xhtml" /></navPoint>
+    <navPoint id="toc1098" playOrder="1098"><navLabel><text>Romains 8</text></navLabel><content src="45_8.xhtml" /></navPoint>
+    <navPoint id="toc1099" playOrder="1099"><navLabel><text>Romains 9</text></navLabel><content src="45_9.xhtml" /></navPoint>
+    <navPoint id="toc1100" playOrder="1100"><navLabel><text>Romains 10</text></navLabel><content src="45_10.xhtml" /></navPoint>
+    <navPoint id="toc1101" playOrder="1101"><navLabel><text>Romains 11</text></navLabel><content src="45_11.xhtml" /></navPoint>
+    <navPoint id="toc1102" playOrder="1102"><navLabel><text>Romains 12</text></navLabel><content src="45_12.xhtml" /></navPoint>
+    <navPoint id="toc1103" playOrder="1103"><navLabel><text>Romains 13</text></navLabel><content src="45_13.xhtml" /></navPoint>
+    <navPoint id="toc1104" playOrder="1104"><navLabel><text>Romains 14</text></navLabel><content src="45_14.xhtml" /></navPoint>
+    <navPoint id="toc1105" playOrder="1105"><navLabel><text>Romains 15</text></navLabel><content src="45_15.xhtml" /></navPoint>
+    <navPoint id="toc1106" playOrder="1106"><navLabel><text>Romains 16</text></navLabel><content src="45_16.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1107" playOrder="1107"><navLabel><text>1 Corinthiens</text></navLabel><content src="46_1.xhtml" />
+    <navPoint id="toc1108" playOrder="1108"><navLabel><text>1 Corinthiens 1</text></navLabel><content src="46_1.xhtml" /></navPoint>
+    <navPoint id="toc1109" playOrder="1109"><navLabel><text>1 Corinthiens 2</text></navLabel><content src="46_2.xhtml" /></navPoint>
+    <navPoint id="toc1110" playOrder="1110"><navLabel><text>1 Corinthiens 3</text></navLabel><content src="46_3.xhtml" /></navPoint>
+    <navPoint id="toc1111" playOrder="1111"><navLabel><text>1 Corinthiens 4</text></navLabel><content src="46_4.xhtml" /></navPoint>
+    <navPoint id="toc1112" playOrder="1112"><navLabel><text>1 Corinthiens 5</text></navLabel><content src="46_5.xhtml" /></navPoint>
+    <navPoint id="toc1113" playOrder="1113"><navLabel><text>1 Corinthiens 6</text></navLabel><content src="46_6.xhtml" /></navPoint>
+    <navPoint id="toc1114" playOrder="1114"><navLabel><text>1 Corinthiens 7</text></navLabel><content src="46_7.xhtml" /></navPoint>
+    <navPoint id="toc1115" playOrder="1115"><navLabel><text>1 Corinthiens 8</text></navLabel><content src="46_8.xhtml" /></navPoint>
+    <navPoint id="toc1116" playOrder="1116"><navLabel><text>1 Corinthiens 9</text></navLabel><content src="46_9.xhtml" /></navPoint>
+    <navPoint id="toc1117" playOrder="1117"><navLabel><text>1 Corinthiens 10</text></navLabel><content src="46_10.xhtml" /></navPoint>
+    <navPoint id="toc1118" playOrder="1118"><navLabel><text>1 Corinthiens 11</text></navLabel><content src="46_11.xhtml" /></navPoint>
+    <navPoint id="toc1119" playOrder="1119"><navLabel><text>1 Corinthiens 12</text></navLabel><content src="46_12.xhtml" /></navPoint>
+    <navPoint id="toc1120" playOrder="1120"><navLabel><text>1 Corinthiens 13</text></navLabel><content src="46_13.xhtml" /></navPoint>
+    <navPoint id="toc1121" playOrder="1121"><navLabel><text>1 Corinthiens 14</text></navLabel><content src="46_14.xhtml" /></navPoint>
+    <navPoint id="toc1122" playOrder="1122"><navLabel><text>1 Corinthiens 15</text></navLabel><content src="46_15.xhtml" /></navPoint>
+    <navPoint id="toc1123" playOrder="1123"><navLabel><text>1 Corinthiens 16</text></navLabel><content src="46_16.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1124" playOrder="1124"><navLabel><text>2 Corinthiens</text></navLabel><content src="47_1.xhtml" />
+    <navPoint id="toc1125" playOrder="1125"><navLabel><text>2 Corinthiens 1</text></navLabel><content src="47_1.xhtml" /></navPoint>
+    <navPoint id="toc1126" playOrder="1126"><navLabel><text>2 Corinthiens 2</text></navLabel><content src="47_2.xhtml" /></navPoint>
+    <navPoint id="toc1127" playOrder="1127"><navLabel><text>2 Corinthiens 3</text></navLabel><content src="47_3.xhtml" /></navPoint>
+    <navPoint id="toc1128" playOrder="1128"><navLabel><text>2 Corinthiens 4</text></navLabel><content src="47_4.xhtml" /></navPoint>
+    <navPoint id="toc1129" playOrder="1129"><navLabel><text>2 Corinthiens 5</text></navLabel><content src="47_5.xhtml" /></navPoint>
+    <navPoint id="toc1130" playOrder="1130"><navLabel><text>2 Corinthiens 6</text></navLabel><content src="47_6.xhtml" /></navPoint>
+    <navPoint id="toc1131" playOrder="1131"><navLabel><text>2 Corinthiens 7</text></navLabel><content src="47_7.xhtml" /></navPoint>
+    <navPoint id="toc1132" playOrder="1132"><navLabel><text>2 Corinthiens 8</text></navLabel><content src="47_8.xhtml" /></navPoint>
+    <navPoint id="toc1133" playOrder="1133"><navLabel><text>2 Corinthiens 9</text></navLabel><content src="47_9.xhtml" /></navPoint>
+    <navPoint id="toc1134" playOrder="1134"><navLabel><text>2 Corinthiens 10</text></navLabel><content src="47_10.xhtml" /></navPoint>
+    <navPoint id="toc1135" playOrder="1135"><navLabel><text>2 Corinthiens 11</text></navLabel><content src="47_11.xhtml" /></navPoint>
+    <navPoint id="toc1136" playOrder="1136"><navLabel><text>2 Corinthiens 12</text></navLabel><content src="47_12.xhtml" /></navPoint>
+    <navPoint id="toc1137" playOrder="1137"><navLabel><text>2 Corinthiens 13</text></navLabel><content src="47_13.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1138" playOrder="1138"><navLabel><text>Galates</text></navLabel><content src="48_1.xhtml" />
+    <navPoint id="toc1139" playOrder="1139"><navLabel><text>Galates 1</text></navLabel><content src="48_1.xhtml" /></navPoint>
+    <navPoint id="toc1140" playOrder="1140"><navLabel><text>Galates 2</text></navLabel><content src="48_2.xhtml" /></navPoint>
+    <navPoint id="toc1141" playOrder="1141"><navLabel><text>Galates 3</text></navLabel><content src="48_3.xhtml" /></navPoint>
+    <navPoint id="toc1142" playOrder="1142"><navLabel><text>Galates 4</text></navLabel><content src="48_4.xhtml" /></navPoint>
+    <navPoint id="toc1143" playOrder="1143"><navLabel><text>Galates 5</text></navLabel><content src="48_5.xhtml" /></navPoint>
+    <navPoint id="toc1144" playOrder="1144"><navLabel><text>Galates 6</text></navLabel><content src="48_6.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1145" playOrder="1145"><navLabel><text>Ephésiens</text></navLabel><content src="49_1.xhtml" />
+    <navPoint id="toc1146" playOrder="1146"><navLabel><text>Ephésiens 1</text></navLabel><content src="49_1.xhtml" /></navPoint>
+    <navPoint id="toc1147" playOrder="1147"><navLabel><text>Ephésiens 2</text></navLabel><content src="49_2.xhtml" /></navPoint>
+    <navPoint id="toc1148" playOrder="1148"><navLabel><text>Ephésiens 3</text></navLabel><content src="49_3.xhtml" /></navPoint>
+    <navPoint id="toc1149" playOrder="1149"><navLabel><text>Ephésiens 4</text></navLabel><content src="49_4.xhtml" /></navPoint>
+    <navPoint id="toc1150" playOrder="1150"><navLabel><text>Ephésiens 5</text></navLabel><content src="49_5.xhtml" /></navPoint>
+    <navPoint id="toc1151" playOrder="1151"><navLabel><text>Ephésiens 6</text></navLabel><content src="49_6.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1152" playOrder="1152"><navLabel><text>Philippiens</text></navLabel><content src="50_1.xhtml" />
+    <navPoint id="toc1153" playOrder="1153"><navLabel><text>Philippiens 1</text></navLabel><content src="50_1.xhtml" /></navPoint>
+    <navPoint id="toc1154" playOrder="1154"><navLabel><text>Philippiens 2</text></navLabel><content src="50_2.xhtml" /></navPoint>
+    <navPoint id="toc1155" playOrder="1155"><navLabel><text>Philippiens 3</text></navLabel><content src="50_3.xhtml" /></navPoint>
+    <navPoint id="toc1156" playOrder="1156"><navLabel><text>Philippiens 4</text></navLabel><content src="50_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1157" playOrder="1157"><navLabel><text>Colossiens</text></navLabel><content src="51_1.xhtml" />
+    <navPoint id="toc1158" playOrder="1158"><navLabel><text>Colossiens 1</text></navLabel><content src="51_1.xhtml" /></navPoint>
+    <navPoint id="toc1159" playOrder="1159"><navLabel><text>Colossiens 2</text></navLabel><content src="51_2.xhtml" /></navPoint>
+    <navPoint id="toc1160" playOrder="1160"><navLabel><text>Colossiens 3</text></navLabel><content src="51_3.xhtml" /></navPoint>
+    <navPoint id="toc1161" playOrder="1161"><navLabel><text>Colossiens 4</text></navLabel><content src="51_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1162" playOrder="1162"><navLabel><text>1 Thessaloniciens</text></navLabel><content src="52_1.xhtml" />
+    <navPoint id="toc1163" playOrder="1163"><navLabel><text>1 Thessaloniciens 1</text></navLabel><content src="52_1.xhtml" /></navPoint>
+    <navPoint id="toc1164" playOrder="1164"><navLabel><text>1 Thessaloniciens 2</text></navLabel><content src="52_2.xhtml" /></navPoint>
+    <navPoint id="toc1165" playOrder="1165"><navLabel><text>1 Thessaloniciens 3</text></navLabel><content src="52_3.xhtml" /></navPoint>
+    <navPoint id="toc1166" playOrder="1166"><navLabel><text>1 Thessaloniciens 4</text></navLabel><content src="52_4.xhtml" /></navPoint>
+    <navPoint id="toc1167" playOrder="1167"><navLabel><text>1 Thessaloniciens 5</text></navLabel><content src="52_5.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1168" playOrder="1168"><navLabel><text>2 Thessaloniciens</text></navLabel><content src="53_1.xhtml" />
+    <navPoint id="toc1169" playOrder="1169"><navLabel><text>2 Thessaloniciens 1</text></navLabel><content src="53_1.xhtml" /></navPoint>
+    <navPoint id="toc1170" playOrder="1170"><navLabel><text>2 Thessaloniciens 2</text></navLabel><content src="53_2.xhtml" /></navPoint>
+    <navPoint id="toc1171" playOrder="1171"><navLabel><text>2 Thessaloniciens 3</text></navLabel><content src="53_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1172" playOrder="1172"><navLabel><text>1 Timothée</text></navLabel><content src="54_1.xhtml" />
+    <navPoint id="toc1173" playOrder="1173"><navLabel><text>1 Timothée 1</text></navLabel><content src="54_1.xhtml" /></navPoint>
+    <navPoint id="toc1174" playOrder="1174"><navLabel><text>1 Timothée 2</text></navLabel><content src="54_2.xhtml" /></navPoint>
+    <navPoint id="toc1175" playOrder="1175"><navLabel><text>1 Timothée 3</text></navLabel><content src="54_3.xhtml" /></navPoint>
+    <navPoint id="toc1176" playOrder="1176"><navLabel><text>1 Timothée 4</text></navLabel><content src="54_4.xhtml" /></navPoint>
+    <navPoint id="toc1177" playOrder="1177"><navLabel><text>1 Timothée 5</text></navLabel><content src="54_5.xhtml" /></navPoint>
+    <navPoint id="toc1178" playOrder="1178"><navLabel><text>1 Timothée 6</text></navLabel><content src="54_6.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1179" playOrder="1179"><navLabel><text>2 Timothée</text></navLabel><content src="55_1.xhtml" />
+    <navPoint id="toc1180" playOrder="1180"><navLabel><text>2 Timothée 1</text></navLabel><content src="55_1.xhtml" /></navPoint>
+    <navPoint id="toc1181" playOrder="1181"><navLabel><text>2 Timothée 2</text></navLabel><content src="55_2.xhtml" /></navPoint>
+    <navPoint id="toc1182" playOrder="1182"><navLabel><text>2 Timothée 3</text></navLabel><content src="55_3.xhtml" /></navPoint>
+    <navPoint id="toc1183" playOrder="1183"><navLabel><text>2 Timothée 4</text></navLabel><content src="55_4.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1184" playOrder="1184"><navLabel><text>Tite</text></navLabel><content src="56_1.xhtml" />
+    <navPoint id="toc1185" playOrder="1185"><navLabel><text>Tite 1</text></navLabel><content src="56_1.xhtml" /></navPoint>
+    <navPoint id="toc1186" playOrder="1186"><navLabel><text>Tite 2</text></navLabel><content src="56_2.xhtml" /></navPoint>
+    <navPoint id="toc1187" playOrder="1187"><navLabel><text>Tite 3</text></navLabel><content src="56_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1188" playOrder="1188"><navLabel><text>Philémon</text></navLabel><content src="57_1.xhtml" />
+</navPoint>
+<navPoint id="toc1189" playOrder="1189"><navLabel><text>Hébreux</text></navLabel><content src="58_1.xhtml" />
+    <navPoint id="toc1190" playOrder="1190"><navLabel><text>Hébreux 1</text></navLabel><content src="58_1.xhtml" /></navPoint>
+    <navPoint id="toc1191" playOrder="1191"><navLabel><text>Hébreux 2</text></navLabel><content src="58_2.xhtml" /></navPoint>
+    <navPoint id="toc1192" playOrder="1192"><navLabel><text>Hébreux 3</text></navLabel><content src="58_3.xhtml" /></navPoint>
+    <navPoint id="toc1193" playOrder="1193"><navLabel><text>Hébreux 4</text></navLabel><content src="58_4.xhtml" /></navPoint>
+    <navPoint id="toc1194" playOrder="1194"><navLabel><text>Hébreux 5</text></navLabel><content src="58_5.xhtml" /></navPoint>
+    <navPoint id="toc1195" playOrder="1195"><navLabel><text>Hébreux 6</text></navLabel><content src="58_6.xhtml" /></navPoint>
+    <navPoint id="toc1196" playOrder="1196"><navLabel><text>Hébreux 7</text></navLabel><content src="58_7.xhtml" /></navPoint>
+    <navPoint id="toc1197" playOrder="1197"><navLabel><text>Hébreux 8</text></navLabel><content src="58_8.xhtml" /></navPoint>
+    <navPoint id="toc1198" playOrder="1198"><navLabel><text>Hébreux 9</text></navLabel><content src="58_9.xhtml" /></navPoint>
+    <navPoint id="toc1199" playOrder="1199"><navLabel><text>Hébreux 10</text></navLabel><content src="58_10.xhtml" /></navPoint>
+    <navPoint id="toc1200" playOrder="1200"><navLabel><text>Hébreux 11</text></navLabel><content src="58_11.xhtml" /></navPoint>
+    <navPoint id="toc1201" playOrder="1201"><navLabel><text>Hébreux 12</text></navLabel><content src="58_12.xhtml" /></navPoint>
+    <navPoint id="toc1202" playOrder="1202"><navLabel><text>Hébreux 13</text></navLabel><content src="58_13.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1203" playOrder="1203"><navLabel><text>Jacques</text></navLabel><content src="59_1.xhtml" />
+    <navPoint id="toc1204" playOrder="1204"><navLabel><text>Jacques 1</text></navLabel><content src="59_1.xhtml" /></navPoint>
+    <navPoint id="toc1205" playOrder="1205"><navLabel><text>Jacques 2</text></navLabel><content src="59_2.xhtml" /></navPoint>
+    <navPoint id="toc1206" playOrder="1206"><navLabel><text>Jacques 3</text></navLabel><content src="59_3.xhtml" /></navPoint>
+    <navPoint id="toc1207" playOrder="1207"><navLabel><text>Jacques 4</text></navLabel><content src="59_4.xhtml" /></navPoint>
+    <navPoint id="toc1208" playOrder="1208"><navLabel><text>Jacques 5</text></navLabel><content src="59_5.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1209" playOrder="1209"><navLabel><text>1 Pierre</text></navLabel><content src="60_1.xhtml" />
+    <navPoint id="toc1210" playOrder="1210"><navLabel><text>1 Pierre 1</text></navLabel><content src="60_1.xhtml" /></navPoint>
+    <navPoint id="toc1211" playOrder="1211"><navLabel><text>1 Pierre 2</text></navLabel><content src="60_2.xhtml" /></navPoint>
+    <navPoint id="toc1212" playOrder="1212"><navLabel><text>1 Pierre 3</text></navLabel><content src="60_3.xhtml" /></navPoint>
+    <navPoint id="toc1213" playOrder="1213"><navLabel><text>1 Pierre 4</text></navLabel><content src="60_4.xhtml" /></navPoint>
+    <navPoint id="toc1214" playOrder="1214"><navLabel><text>1 Pierre 5</text></navLabel><content src="60_5.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1215" playOrder="1215"><navLabel><text>2 Pierre</text></navLabel><content src="61_1.xhtml" />
+    <navPoint id="toc1216" playOrder="1216"><navLabel><text>2 Pierre 1</text></navLabel><content src="61_1.xhtml" /></navPoint>
+    <navPoint id="toc1217" playOrder="1217"><navLabel><text>2 Pierre 2</text></navLabel><content src="61_2.xhtml" /></navPoint>
+    <navPoint id="toc1218" playOrder="1218"><navLabel><text>2 Pierre 3</text></navLabel><content src="61_3.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1219" playOrder="1219"><navLabel><text>1 Jean</text></navLabel><content src="62_1.xhtml" />
+    <navPoint id="toc1220" playOrder="1220"><navLabel><text>1 Jean 1</text></navLabel><content src="62_1.xhtml" /></navPoint>
+    <navPoint id="toc1221" playOrder="1221"><navLabel><text>1 Jean 2</text></navLabel><content src="62_2.xhtml" /></navPoint>
+    <navPoint id="toc1222" playOrder="1222"><navLabel><text>1 Jean 3</text></navLabel><content src="62_3.xhtml" /></navPoint>
+    <navPoint id="toc1223" playOrder="1223"><navLabel><text>1 Jean 4</text></navLabel><content src="62_4.xhtml" /></navPoint>
+    <navPoint id="toc1224" playOrder="1224"><navLabel><text>1 Jean 5</text></navLabel><content src="62_5.xhtml" /></navPoint>
+</navPoint>
+<navPoint id="toc1225" playOrder="1225"><navLabel><text>2 Jean</text></navLabel><content src="63_1.xhtml" />
+</navPoint>
+<navPoint id="toc1226" playOrder="1226"><navLabel><text>3 Jean</text></navLabel><content src="64_1.xhtml" />
+</navPoint>
+<navPoint id="toc1227" playOrder="1227"><navLabel><text>Jude</text></navLabel><content src="65_1.xhtml" />
+</navPoint>
+<navPoint id="toc1228" playOrder="1228"><navLabel><text>Apocalypse</text></navLabel><content src="66_1.xhtml" />
+    <navPoint id="toc1229" playOrder="1229"><navLabel><text>Apocalypse 1</text></navLabel><content src="66_1.xhtml" /></navPoint>
+    <navPoint id="toc1230" playOrder="1230"><navLabel><text>Apocalypse 2</text></navLabel><content src="66_2.xhtml" /></navPoint>
+    <navPoint id="toc1231" playOrder="1231"><navLabel><text>Apocalypse 3</text></navLabel><content src="66_3.xhtml" /></navPoint>
+    <navPoint id="toc1232" playOrder="1232"><navLabel><text>Apocalypse 4</text></navLabel><content src="66_4.xhtml" /></navPoint>
+    <navPoint id="toc1233" playOrder="1233"><navLabel><text>Apocalypse 5</text></navLabel><content src="66_5.xhtml" /></navPoint>
+    <navPoint id="toc1234" playOrder="1234"><navLabel><text>Apocalypse 6</text></navLabel><content src="66_6.xhtml" /></navPoint>
+    <navPoint id="toc1235" playOrder="1235"><navLabel><text>Apocalypse 7</text></navLabel><content src="66_7.xhtml" /></navPoint>
+    <navPoint id="toc1236" playOrder="1236"><navLabel><text>Apocalypse 8</text></navLabel><content src="66_8.xhtml" /></navPoint>
+    <navPoint id="toc1237" playOrder="1237"><navLabel><text>Apocalypse 9</text></navLabel><content src="66_9.xhtml" /></navPoint>
+    <navPoint id="toc1238" playOrder="1238"><navLabel><text>Apocalypse 10</text></navLabel><content src="66_10.xhtml" /></navPoint>
+    <navPoint id="toc1239" playOrder="1239"><navLabel><text>Apocalypse 11</text></navLabel><content src="66_11.xhtml" /></navPoint>
+    <navPoint id="toc1240" playOrder="1240"><navLabel><text>Apocalypse 12</text></navLabel><content src="66_12.xhtml" /></navPoint>
+    <navPoint id="toc1241" playOrder="1241"><navLabel><text>Apocalypse 13</text></navLabel><content src="66_13.xhtml" /></navPoint>
+    <navPoint id="toc1242" playOrder="1242"><navLabel><text>Apocalypse 14</text></navLabel><content src="66_14.xhtml" /></navPoint>
+    <navPoint id="toc1243" playOrder="1243"><navLabel><text>Apocalypse 15</text></navLabel><content src="66_15.xhtml" /></navPoint>
+    <navPoint id="toc1244" playOrder="1244"><navLabel><text>Apocalypse 16</text></navLabel><content src="66_16.xhtml" /></navPoint>
+    <navPoint id="toc1245" playOrder="1245"><navLabel><text>Apocalypse 17</text></navLabel><content src="66_17.xhtml" /></navPoint>
+    <navPoint id="toc1246" playOrder="1246"><navLabel><text>Apocalypse 18</text></navLabel><content src="66_18.xhtml" /></navPoint>
+    <navPoint id="toc1247" playOrder="1247"><navLabel><text>Apocalypse 19</text></navLabel><content src="66_19.xhtml" /></navPoint>
+    <navPoint id="toc1248" playOrder="1248"><navLabel><text>Apocalypse 20</text></navLabel><content src="66_20.xhtml" /></navPoint>
+    <navPoint id="toc1249" playOrder="1249"><navLabel><text>Apocalypse 21</text></navLabel><content src="66_21.xhtml" /></navPoint>
+    <navPoint id="toc1250" playOrder="1250"><navLabel><text>Apocalypse 22</text></navLabel><content src="66_22.xhtml" /></navPoint>
+</navPoint>
+</navMap>
+</ncx>
